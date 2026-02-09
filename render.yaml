@@ -29,6 +29,6 @@ services:
         value: https://sda-calc-api.onrender.com
 
 databases:
-  - name: sda-cal-db
+  - name: sda-calc-db
     plan: free
     region: singapore
