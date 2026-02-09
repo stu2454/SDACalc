@@ -1,34 +1,41 @@
-version: "1"
 services:
-  - type: web
-    name: sda-calc-api
-    runtime: docker
-    repo: https://github.com/stu2454/SDACalc
+  # PostgreSQL Database
+  - type: pserv
+    name: sda-calc-db
+    env: docker
     plan: free
-    region: singapore
-    dockerContext: backend
-    dockerfilePath: backend/Dockerfile
-    autoDeploy: true
+    region: oregon
+    databases:
+      - name: sda_calc
+        databaseName: sda_calc
+        user: sda_user
+
+  # FastAPI Backend
+  - type: web
+    name: sda-calc-backend
+    env: docker
+    plan: free
+    region: oregon
+    dockerfilePath: ./backend/Dockerfile
+    dockerContext: .
     envVars:
       - key: DATABASE_URL
         fromDatabase:
           name: sda-calc-db
           property: connectionString
+    healthCheckPath: /api/v1/health
 
+  # React Frontend
   - type: web
-    name: sda-calc-web
-    runtime: docker
-    repo: https://github.com/stu2454/SDACalc
+    name: sda-calc-frontend
+    env: docker
     plan: free
-    region: singapore
-    dockerContext: frontend
-    dockerfilePath: frontend/Dockerfile
-    autoDeploy: true
+    region: oregon
+    dockerfilePath: ./frontend/Dockerfile
+    dockerContext: ./frontend
     envVars:
       - key: VITE_API_URL
-        value: https://sda-calc-api.onrender.com
-
-databases:
-  - name: sda-calc-db
-    plan: free
-    region: singapore
+        fromService:
+          type: web
+          name: sda-calc-backend
+          property: host
