@@ -1,0 +1,849 @@
+stock_type,building_type,resident_count,design_category,ooa_status,fire_sprinklers,itc_claimed,price
+POST_2023,"Apartment, 1 bedroom, 1 resident",1,IL,NO_OOA,False,True,77834.0
+PRE_2023,"Apartment, 1 bedroom, 1 resident",1,IL,NO_OOA,False,True,77834.0
+POST_2023,"Apartment, 1 bedroom, 1 resident",1,IL,WITH_OOA,False,True,90806.0
+PRE_2023,"Apartment, 1 bedroom, 1 resident",1,IL,WITH_OOA,False,True,90806.0
+POST_2023,"Apartment, 1 bedroom, 1 resident",1,FA,NO_OOA,False,True,80262.0
+PRE_2023,"Apartment, 1 bedroom, 1 resident",1,FA,NO_OOA,False,True,80262.0
+POST_2023,"Apartment, 1 bedroom, 1 resident",1,FA,WITH_OOA,False,True,93234.0
+PRE_2023,"Apartment, 1 bedroom, 1 resident",1,FA,WITH_OOA,False,True,93234.0
+POST_2023,"Apartment, 1 bedroom, 1 resident",1,HPS,NO_OOA,False,True,87235.0
+PRE_2023,"Apartment, 1 bedroom, 1 resident",1,HPS,NO_OOA,False,True,87235.0
+POST_2023,"Apartment, 1 bedroom, 1 resident",1,HPS,WITH_OOA,False,True,100207.0
+PRE_2023,"Apartment, 1 bedroom, 1 resident",1,HPS,WITH_OOA,False,True,100207.0
+POST_2023,"Apartment, 2 bedrooms, 1 resident",1,IL,NO_OOA,False,True,81962.0
+PRE_2023,"Apartment, 2 bedrooms, 1 resident",1,IL,NO_OOA,False,True,81962.0
+POST_2023,"Apartment, 2 bedrooms, 1 resident",1,IL,WITH_OOA,False,True,94935.0
+PRE_2023,"Apartment, 2 bedrooms, 1 resident",1,IL,WITH_OOA,False,True,94935.0
+POST_2023,"Apartment, 2 bedrooms, 1 resident",1,FA,NO_OOA,False,True,83765.0
+PRE_2023,"Apartment, 2 bedrooms, 1 resident",1,FA,NO_OOA,False,True,83765.0
+POST_2023,"Apartment, 2 bedrooms, 1 resident",1,FA,WITH_OOA,False,True,96737.0
+PRE_2023,"Apartment, 2 bedrooms, 1 resident",1,FA,WITH_OOA,False,True,96737.0
+POST_2023,"Apartment, 2 bedrooms, 1 resident",1,HPS,NO_OOA,False,True,90978.0
+PRE_2023,"Apartment, 2 bedrooms, 1 resident",1,HPS,NO_OOA,False,True,90978.0
+POST_2023,"Apartment, 2 bedrooms, 1 resident",1,HPS,WITH_OOA,False,True,103951.0
+PRE_2023,"Apartment, 2 bedrooms, 1 resident",1,HPS,WITH_OOA,False,True,103951.0
+POST_2023,"Apartment, 2 bedrooms, 2 residents",2,IL,NO_OOA,False,True,35151.0
+PRE_2023,"Apartment, 2 bedrooms, 2 residents",2,IL,NO_OOA,False,True,35151.0
+POST_2023,"Apartment, 2 bedrooms, 2 residents",2,IL,WITH_OOA,False,True,41637.0
+PRE_2023,"Apartment, 2 bedrooms, 2 residents",2,IL,WITH_OOA,False,True,41637.0
+POST_2023,"Apartment, 2 bedrooms, 2 residents",2,FA,NO_OOA,False,True,36007.0
+PRE_2023,"Apartment, 2 bedrooms, 2 residents",2,FA,NO_OOA,False,True,36007.0
+POST_2023,"Apartment, 2 bedrooms, 2 residents",2,FA,WITH_OOA,False,True,42493.0
+PRE_2023,"Apartment, 2 bedrooms, 2 residents",2,FA,WITH_OOA,False,True,42493.0
+POST_2023,"Apartment, 2 bedrooms, 2 residents",2,HPS,NO_OOA,False,True,39654.0
+PRE_2023,"Apartment, 2 bedrooms, 2 residents",2,HPS,NO_OOA,False,True,39654.0
+POST_2023,"Apartment, 2 bedrooms, 2 residents",2,HPS,WITH_OOA,False,True,46140.0
+PRE_2023,"Apartment, 2 bedrooms, 2 residents",2,HPS,WITH_OOA,False,True,46140.0
+POST_2023,"Apartment, 3 bedrooms, 2 residents",2,IL,NO_OOA,False,True,43748.0
+PRE_2023,"Apartment, 3 bedrooms, 2 residents",2,IL,NO_OOA,False,True,43748.0
+POST_2023,"Apartment, 3 bedrooms, 2 residents",2,IL,WITH_OOA,False,True,50234.0
+PRE_2023,"Apartment, 3 bedrooms, 2 residents",2,IL,WITH_OOA,False,True,50234.0
+POST_2023,"Apartment, 3 bedrooms, 2 residents",2,FA,NO_OOA,False,True,45000.0
+PRE_2023,"Apartment, 3 bedrooms, 2 residents",2,FA,NO_OOA,False,True,45000.0
+POST_2023,"Apartment, 3 bedrooms, 2 residents",2,FA,WITH_OOA,False,True,51486.0
+PRE_2023,"Apartment, 3 bedrooms, 2 residents",2,FA,WITH_OOA,False,True,51486.0
+POST_2023,"Apartment, 3 bedrooms, 2 residents",2,HPS,NO_OOA,False,True,48979.0
+PRE_2023,"Apartment, 3 bedrooms, 2 residents",2,HPS,NO_OOA,False,True,48979.0
+POST_2023,"Apartment, 3 bedrooms, 2 residents",2,HPS,WITH_OOA,False,True,55466.0
+PRE_2023,"Apartment, 3 bedrooms, 2 residents",2,HPS,WITH_OOA,False,True,55466.0
+POST_2023,"Villa/Duplex/Townhouse, 1 resident",1,IL,NO_OOA,False,True,56304.0
+PRE_2023,"Villa/Duplex/Townhouse, 1 resident",1,IL,NO_OOA,False,True,56304.0
+POST_2023,"Villa/Duplex/Townhouse, 1 resident",1,IL,WITH_OOA,False,True,58743.0
+PRE_2023,"Villa/Duplex/Townhouse, 1 resident",1,IL,WITH_OOA,False,True,58743.0
+POST_2023,"Villa/Duplex/Townhouse, 1 resident",1,FA,NO_OOA,False,True,58994.0
+PRE_2023,"Villa/Duplex/Townhouse, 1 resident",1,FA,NO_OOA,False,True,58994.0
+POST_2023,"Villa/Duplex/Townhouse, 1 resident",1,FA,WITH_OOA,False,True,61598.0
+PRE_2023,"Villa/Duplex/Townhouse, 1 resident",1,FA,WITH_OOA,False,True,61598.0
+POST_2023,"Villa/Duplex/Townhouse, 1 resident",1,ROBUST,NO_OOA,False,True,60222.0
+PRE_2023,"Villa/Duplex/Townhouse, 1 resident",1,ROBUST,NO_OOA,False,True,60222.0
+POST_2023,"Villa/Duplex/Townhouse, 1 resident",1,ROBUST,WITH_OOA,False,True,64734.0
+PRE_2023,"Villa/Duplex/Townhouse, 1 resident",1,ROBUST,WITH_OOA,False,True,64734.0
+POST_2023,"Villa/Duplex/Townhouse, 1 resident",1,HPS,NO_OOA,False,True,66164.0
+PRE_2023,"Villa/Duplex/Townhouse, 1 resident",1,HPS,NO_OOA,False,True,66164.0
+POST_2023,"Villa/Duplex/Townhouse, 1 resident",1,HPS,WITH_OOA,False,True,69208.0
+PRE_2023,"Villa/Duplex/Townhouse, 1 resident",1,HPS,WITH_OOA,False,True,69208.0
+POST_2023,"Villa/Duplex/Townhouse, 2 residents",2,IL,NO_OOA,False,True,32599.0
+PRE_2023,"Villa/Duplex/Townhouse, 2 residents",2,IL,NO_OOA,False,True,32599.0
+POST_2023,"Villa/Duplex/Townhouse, 2 residents",2,IL,WITH_OOA,False,True,35378.0
+PRE_2023,"Villa/Duplex/Townhouse, 2 residents",2,IL,WITH_OOA,False,True,35378.0
+POST_2023,"Villa/Duplex/Townhouse, 2 residents",2,FA,NO_OOA,False,True,34554.0
+PRE_2023,"Villa/Duplex/Townhouse, 2 residents",2,FA,NO_OOA,False,True,34554.0
+POST_2023,"Villa/Duplex/Townhouse, 2 residents",2,FA,WITH_OOA,False,True,37586.0
+PRE_2023,"Villa/Duplex/Townhouse, 2 residents",2,FA,WITH_OOA,False,True,37586.0
+POST_2023,"Villa/Duplex/Townhouse, 2 residents",2,ROBUST,NO_OOA,False,True,37773.0
+PRE_2023,"Villa/Duplex/Townhouse, 2 residents",2,ROBUST,NO_OOA,False,True,37773.0
+POST_2023,"Villa/Duplex/Townhouse, 2 residents",2,ROBUST,WITH_OOA,False,True,40389.0
+PRE_2023,"Villa/Duplex/Townhouse, 2 residents",2,ROBUST,WITH_OOA,False,True,40389.0
+POST_2023,"Villa/Duplex/Townhouse, 2 residents",2,ROBUST_BO,NO_OOA,False,True,39976.0
+PRE_2023,"Villa/Duplex/Townhouse, 2 residents",2,ROBUST_BO,NO_OOA,False,True,39976.0
+POST_2023,"Villa/Duplex/Townhouse, 2 residents",2,ROBUST_BO,WITH_OOA,False,True,42591.0
+PRE_2023,"Villa/Duplex/Townhouse, 2 residents",2,ROBUST_BO,WITH_OOA,False,True,42591.0
+POST_2023,"Villa/Duplex/Townhouse, 2 residents",2,HPS,NO_OOA,False,True,38313.0
+PRE_2023,"Villa/Duplex/Townhouse, 2 residents",2,HPS,NO_OOA,False,True,38313.0
+POST_2023,"Villa/Duplex/Townhouse, 2 residents",2,HPS,WITH_OOA,False,True,41834.0
+PRE_2023,"Villa/Duplex/Townhouse, 2 residents",2,HPS,WITH_OOA,False,True,41834.0
+POST_2023,"Villa/Duplex/Townhouse, 3 residents",3,IL,NO_OOA,False,True,26652.0
+PRE_2023,"Villa/Duplex/Townhouse, 3 residents",3,IL,NO_OOA,False,True,26652.0
+POST_2023,"Villa/Duplex/Townhouse, 3 residents",3,IL,WITH_OOA,False,True,29087.0
+PRE_2023,"Villa/Duplex/Townhouse, 3 residents",3,IL,WITH_OOA,False,True,29087.0
+POST_2023,"Villa/Duplex/Townhouse, 3 residents",3,FA,NO_OOA,False,True,28873.0
+PRE_2023,"Villa/Duplex/Townhouse, 3 residents",3,FA,NO_OOA,False,True,28873.0
+POST_2023,"Villa/Duplex/Townhouse, 3 residents",3,FA,WITH_OOA,False,True,31596.0
+PRE_2023,"Villa/Duplex/Townhouse, 3 residents",3,FA,WITH_OOA,False,True,31596.0
+POST_2023,"Villa/Duplex/Townhouse, 3 residents",3,ROBUST,NO_OOA,False,True,31337.0
+PRE_2023,"Villa/Duplex/Townhouse, 3 residents",3,ROBUST,NO_OOA,False,True,31337.0
+POST_2023,"Villa/Duplex/Townhouse, 3 residents",3,ROBUST,WITH_OOA,False,True,33998.0
+PRE_2023,"Villa/Duplex/Townhouse, 3 residents",3,ROBUST,WITH_OOA,False,True,33998.0
+POST_2023,"Villa/Duplex/Townhouse, 3 residents",3,ROBUST_BO,NO_OOA,False,True,33579.0
+PRE_2023,"Villa/Duplex/Townhouse, 3 residents",3,ROBUST_BO,NO_OOA,False,True,33579.0
+POST_2023,"Villa/Duplex/Townhouse, 3 residents",3,ROBUST_BO,WITH_OOA,False,True,36238.0
+PRE_2023,"Villa/Duplex/Townhouse, 3 residents",3,ROBUST_BO,WITH_OOA,False,True,36238.0
+POST_2023,"Villa/Duplex/Townhouse, 3 residents",3,HPS,NO_OOA,False,True,32142.0
+PRE_2023,"Villa/Duplex/Townhouse, 3 residents",3,HPS,NO_OOA,False,True,32142.0
+POST_2023,"Villa/Duplex/Townhouse, 3 residents",3,HPS,WITH_OOA,False,True,34865.0
+PRE_2023,"Villa/Duplex/Townhouse, 3 residents",3,HPS,WITH_OOA,False,True,34865.0
+POST_2023,"House, 2 residents",2,IL,NO_OOA,False,True,64810.0
+PRE_2023,"House, 2 residents",2,IL,NO_OOA,False,True,64810.0
+POST_2023,"House, 2 residents",2,IL,WITH_OOA,False,True,71021.0
+PRE_2023,"House, 2 residents",2,IL,WITH_OOA,False,True,71021.0
+POST_2023,"House, 2 residents",2,FA,NO_OOA,False,True,66514.0
+PRE_2023,"House, 2 residents",2,FA,NO_OOA,False,True,66514.0
+POST_2023,"House, 2 residents",2,FA,WITH_OOA,False,True,72495.0
+PRE_2023,"House, 2 residents",2,FA,WITH_OOA,False,True,72495.0
+POST_2023,"House, 2 residents",2,ROBUST,NO_OOA,False,True,73693.0
+PRE_2023,"House, 2 residents",2,ROBUST,NO_OOA,False,True,73693.0
+POST_2023,"House, 2 residents",2,ROBUST,WITH_OOA,False,True,79913.0
+PRE_2023,"House, 2 residents",2,ROBUST,WITH_OOA,False,True,79913.0
+POST_2023,"House, 2 residents",2,ROBUST_BO,NO_OOA,False,True,78933.0
+PRE_2023,"House, 2 residents",2,ROBUST_BO,NO_OOA,False,True,78933.0
+POST_2023,"House, 2 residents",2,ROBUST_BO,WITH_OOA,False,True,85153.0
+PRE_2023,"House, 2 residents",2,ROBUST_BO,WITH_OOA,False,True,85153.0
+POST_2023,"House, 2 residents",2,HPS,NO_OOA,False,True,78171.0
+PRE_2023,"House, 2 residents",2,HPS,NO_OOA,False,True,78171.0
+POST_2023,"House, 2 residents",2,HPS,WITH_OOA,False,True,84915.0
+PRE_2023,"House, 2 residents",2,HPS,WITH_OOA,False,True,84915.0
+POST_2023,"House, 3 residents",3,IL,NO_OOA,False,True,45460.0
+PRE_2023,"House, 3 residents",3,IL,NO_OOA,False,True,45460.0
+POST_2023,"House, 3 residents",3,IL,WITH_OOA,False,True,48953.0
+PRE_2023,"House, 3 residents",3,IL,WITH_OOA,False,True,48953.0
+POST_2023,"House, 3 residents",3,FA,NO_OOA,False,True,46731.0
+PRE_2023,"House, 3 residents",3,FA,NO_OOA,False,True,46731.0
+POST_2023,"House, 3 residents",3,FA,WITH_OOA,False,True,50156.0
+PRE_2023,"House, 3 residents",3,FA,WITH_OOA,False,True,50156.0
+POST_2023,"House, 3 residents",3,ROBUST,NO_OOA,False,True,50505.0
+PRE_2023,"House, 3 residents",3,ROBUST,NO_OOA,False,True,50505.0
+POST_2023,"House, 3 residents",3,ROBUST,WITH_OOA,False,True,55090.0
+PRE_2023,"House, 3 residents",3,ROBUST,WITH_OOA,False,True,55090.0
+POST_2023,"House, 3 residents",3,ROBUST_BO,NO_OOA,False,True,54368.0
+PRE_2023,"House, 3 residents",3,ROBUST_BO,NO_OOA,False,True,54368.0
+POST_2023,"House, 3 residents",3,ROBUST_BO,WITH_OOA,False,True,58955.0
+PRE_2023,"House, 3 residents",3,ROBUST_BO,WITH_OOA,False,True,58955.0
+POST_2023,"House, 3 residents",3,HPS,NO_OOA,False,True,55148.0
+PRE_2023,"House, 3 residents",3,HPS,NO_OOA,False,True,55148.0
+POST_2023,"House, 3 residents",3,HPS,WITH_OOA,False,True,58833.0
+PRE_2023,"House, 3 residents",3,HPS,WITH_OOA,False,True,58833.0
+POST_2023,"Group Home, 4 residents",4,IL,NO_OOA,False,True,37581.0
+PRE_2023,"Group Home, 4 residents",4,IL,NO_OOA,False,True,37581.0
+POST_2023,"Group Home, 4 residents",4,IL,WITH_OOA,False,True,40076.0
+PRE_2023,"Group Home, 4 residents",4,IL,WITH_OOA,False,True,40076.0
+POST_2023,"Group Home, 4 residents",4,FA,NO_OOA,False,True,38995.0
+PRE_2023,"Group Home, 4 residents",4,FA,NO_OOA,False,True,38995.0
+POST_2023,"Group Home, 4 residents",4,FA,WITH_OOA,False,True,41224.0
+PRE_2023,"Group Home, 4 residents",4,FA,WITH_OOA,False,True,41224.0
+POST_2023,"Group Home, 4 residents",4,ROBUST,NO_OOA,False,True,42386.0
+PRE_2023,"Group Home, 4 residents",4,ROBUST,NO_OOA,False,True,42386.0
+POST_2023,"Group Home, 4 residents",4,ROBUST,WITH_OOA,False,True,45441.0
+PRE_2023,"Group Home, 4 residents",4,ROBUST,WITH_OOA,False,True,45441.0
+POST_2023,"Group Home, 4 residents",4,ROBUST_BO,NO_OOA,False,True,44960.0
+PRE_2023,"Group Home, 4 residents",4,ROBUST_BO,NO_OOA,False,True,44960.0
+POST_2023,"Group Home, 4 residents",4,ROBUST_BO,WITH_OOA,False,True,48014.0
+PRE_2023,"Group Home, 4 residents",4,ROBUST_BO,WITH_OOA,False,True,48014.0
+POST_2023,"Group Home, 4 residents",4,HPS,NO_OOA,False,True,45592.0
+PRE_2023,"Group Home, 4 residents",4,HPS,NO_OOA,False,True,45592.0
+POST_2023,"Group Home, 4 residents",4,HPS,WITH_OOA,False,True,48360.0
+PRE_2023,"Group Home, 4 residents",4,HPS,WITH_OOA,False,True,48360.0
+POST_2023,"Group Home, 5 residents",5,IL,NO_OOA,False,True,31341.0
+PRE_2023,"Group Home, 5 residents",5,IL,NO_OOA,False,True,31341.0
+POST_2023,"Group Home, 5 residents",5,IL,WITH_OOA,False,True,32982.0
+PRE_2023,"Group Home, 5 residents",5,IL,WITH_OOA,False,True,32982.0
+POST_2023,"Group Home, 5 residents",5,FA,NO_OOA,False,True,32622.0
+PRE_2023,"Group Home, 5 residents",5,FA,NO_OOA,False,True,32622.0
+POST_2023,"Group Home, 5 residents",5,FA,WITH_OOA,False,True,35189.0
+PRE_2023,"Group Home, 5 residents",5,FA,WITH_OOA,False,True,35189.0
+POST_2023,"Group Home, 5 residents",5,ROBUST,NO_OOA,False,True,36044.0
+PRE_2023,"Group Home, 5 residents",5,ROBUST,NO_OOA,False,True,36044.0
+POST_2023,"Group Home, 5 residents",5,ROBUST,WITH_OOA,False,True,37242.0
+PRE_2023,"Group Home, 5 residents",5,ROBUST,WITH_OOA,False,True,37242.0
+POST_2023,"Group Home, 5 residents",5,ROBUST_BO,NO_OOA,False,True,37053.0
+PRE_2023,"Group Home, 5 residents",5,ROBUST_BO,NO_OOA,False,True,37053.0
+POST_2023,"Group Home, 5 residents",5,ROBUST_BO,WITH_OOA,False,True,38250.0
+PRE_2023,"Group Home, 5 residents",5,ROBUST_BO,WITH_OOA,False,True,38250.0
+POST_2023,"Group Home, 5 residents",5,HPS,NO_OOA,False,True,38132.0
+PRE_2023,"Group Home, 5 residents",5,HPS,NO_OOA,False,True,38132.0
+POST_2023,"Group Home, 5 residents",5,HPS,WITH_OOA,False,True,40310.0
+PRE_2023,"Group Home, 5 residents",5,HPS,WITH_OOA,False,True,40310.0
+POST_2023,"Apartment, 1 bedroom, 1 resident",1,IL,NO_OOA,True,True,79406.0
+PRE_2023,"Apartment, 1 bedroom, 1 resident",1,IL,NO_OOA,True,True,79406.0
+POST_2023,"Apartment, 1 bedroom, 1 resident",1,IL,WITH_OOA,True,True,92640.0
+PRE_2023,"Apartment, 1 bedroom, 1 resident",1,IL,WITH_OOA,True,True,92640.0
+POST_2023,"Apartment, 1 bedroom, 1 resident",1,FA,NO_OOA,True,True,81852.0
+PRE_2023,"Apartment, 1 bedroom, 1 resident",1,FA,NO_OOA,True,True,81852.0
+POST_2023,"Apartment, 1 bedroom, 1 resident",1,FA,WITH_OOA,True,True,95087.0
+PRE_2023,"Apartment, 1 bedroom, 1 resident",1,FA,WITH_OOA,True,True,95087.0
+POST_2023,"Apartment, 1 bedroom, 1 resident",1,HPS,NO_OOA,True,True,88841.0
+PRE_2023,"Apartment, 1 bedroom, 1 resident",1,HPS,NO_OOA,True,True,88841.0
+POST_2023,"Apartment, 1 bedroom, 1 resident",1,HPS,WITH_OOA,True,True,102075.0
+PRE_2023,"Apartment, 1 bedroom, 1 resident",1,HPS,WITH_OOA,True,True,102075.0
+POST_2023,"Apartment, 2 bedrooms, 1 resident",1,IL,NO_OOA,True,True,83732.0
+PRE_2023,"Apartment, 2 bedrooms, 1 resident",1,IL,NO_OOA,True,True,83732.0
+POST_2023,"Apartment, 2 bedrooms, 1 resident",1,IL,WITH_OOA,True,True,96968.0
+PRE_2023,"Apartment, 2 bedrooms, 1 resident",1,IL,WITH_OOA,True,True,96968.0
+POST_2023,"Apartment, 2 bedrooms, 1 resident",1,FA,NO_OOA,True,True,85575.0
+PRE_2023,"Apartment, 2 bedrooms, 1 resident",1,FA,NO_OOA,True,True,85575.0
+POST_2023,"Apartment, 2 bedrooms, 1 resident",1,FA,WITH_OOA,True,True,98809.0
+PRE_2023,"Apartment, 2 bedrooms, 1 resident",1,FA,WITH_OOA,True,True,98809.0
+POST_2023,"Apartment, 2 bedrooms, 1 resident",1,HPS,NO_OOA,True,True,92809.0
+PRE_2023,"Apartment, 2 bedrooms, 1 resident",1,HPS,NO_OOA,True,True,92809.0
+POST_2023,"Apartment, 2 bedrooms, 1 resident",1,HPS,WITH_OOA,True,True,106044.0
+PRE_2023,"Apartment, 2 bedrooms, 1 resident",1,HPS,WITH_OOA,True,True,106044.0
+POST_2023,"Apartment, 2 bedrooms, 2 residents",2,IL,NO_OOA,True,True,36046.0
+PRE_2023,"Apartment, 2 bedrooms, 2 residents",2,IL,NO_OOA,True,True,36046.0
+POST_2023,"Apartment, 2 bedrooms, 2 residents",2,IL,WITH_OOA,True,True,42663.0
+PRE_2023,"Apartment, 2 bedrooms, 2 residents",2,IL,WITH_OOA,True,True,42663.0
+POST_2023,"Apartment, 2 bedrooms, 2 residents",2,FA,NO_OOA,True,True,36926.0
+PRE_2023,"Apartment, 2 bedrooms, 2 residents",2,FA,NO_OOA,True,True,36926.0
+POST_2023,"Apartment, 2 bedrooms, 2 residents",2,FA,WITH_OOA,True,True,43544.0
+PRE_2023,"Apartment, 2 bedrooms, 2 residents",2,FA,WITH_OOA,True,True,43544.0
+POST_2023,"Apartment, 2 bedrooms, 2 residents",2,HPS,NO_OOA,True,True,40585.0
+PRE_2023,"Apartment, 2 bedrooms, 2 residents",2,HPS,NO_OOA,True,True,40585.0
+POST_2023,"Apartment, 2 bedrooms, 2 residents",2,HPS,WITH_OOA,True,True,47202.0
+PRE_2023,"Apartment, 2 bedrooms, 2 residents",2,HPS,WITH_OOA,True,True,47202.0
+POST_2023,"Apartment, 3 bedrooms, 2 residents",2,IL,NO_OOA,True,True,44813.0
+PRE_2023,"Apartment, 3 bedrooms, 2 residents",2,IL,NO_OOA,True,True,44813.0
+POST_2023,"Apartment, 3 bedrooms, 2 residents",2,IL,WITH_OOA,True,True,51429.0
+PRE_2023,"Apartment, 3 bedrooms, 2 residents",2,IL,WITH_OOA,True,True,51429.0
+POST_2023,"Apartment, 3 bedrooms, 2 residents",2,FA,NO_OOA,True,True,46075.0
+PRE_2023,"Apartment, 3 bedrooms, 2 residents",2,FA,NO_OOA,True,True,46075.0
+POST_2023,"Apartment, 3 bedrooms, 2 residents",2,FA,WITH_OOA,True,True,52691.0
+PRE_2023,"Apartment, 3 bedrooms, 2 residents",2,FA,WITH_OOA,True,True,52691.0
+POST_2023,"Apartment, 3 bedrooms, 2 residents",2,HPS,NO_OOA,True,True,50074.0
+PRE_2023,"Apartment, 3 bedrooms, 2 residents",2,HPS,NO_OOA,True,True,50074.0
+POST_2023,"Apartment, 3 bedrooms, 2 residents",2,HPS,WITH_OOA,True,True,56691.0
+PRE_2023,"Apartment, 3 bedrooms, 2 residents",2,HPS,WITH_OOA,True,True,56691.0
+POST_2023,"Villa/Duplex/Townhouse, 1 resident",1,IL,NO_OOA,True,True,61130.0
+PRE_2023,"Villa/Duplex/Townhouse, 1 resident",1,IL,NO_OOA,True,True,61130.0
+POST_2023,"Villa/Duplex/Townhouse, 1 resident",1,IL,WITH_OOA,True,True,63861.0
+PRE_2023,"Villa/Duplex/Townhouse, 1 resident",1,IL,WITH_OOA,True,True,63861.0
+POST_2023,"Villa/Duplex/Townhouse, 1 resident",1,FA,NO_OOA,True,True,63821.0
+PRE_2023,"Villa/Duplex/Townhouse, 1 resident",1,FA,NO_OOA,True,True,63821.0
+POST_2023,"Villa/Duplex/Townhouse, 1 resident",1,FA,WITH_OOA,True,True,66716.0
+PRE_2023,"Villa/Duplex/Townhouse, 1 resident",1,FA,WITH_OOA,True,True,66716.0
+POST_2023,"Villa/Duplex/Townhouse, 1 resident",1,ROBUST,NO_OOA,True,True,65160.0
+PRE_2023,"Villa/Duplex/Townhouse, 1 resident",1,ROBUST,NO_OOA,True,True,65160.0
+POST_2023,"Villa/Duplex/Townhouse, 1 resident",1,ROBUST,WITH_OOA,True,True,69983.0
+PRE_2023,"Villa/Duplex/Townhouse, 1 resident",1,ROBUST,WITH_OOA,True,True,69983.0
+POST_2023,"Villa/Duplex/Townhouse, 1 resident",1,HPS,NO_OOA,True,True,71066.0
+PRE_2023,"Villa/Duplex/Townhouse, 1 resident",1,HPS,NO_OOA,True,True,71066.0
+POST_2023,"Villa/Duplex/Townhouse, 1 resident",1,HPS,WITH_OOA,True,True,74413.0
+PRE_2023,"Villa/Duplex/Townhouse, 1 resident",1,HPS,WITH_OOA,True,True,74413.0
+POST_2023,"Villa/Duplex/Townhouse, 2 residents",2,IL,NO_OOA,True,True,35326.0
+PRE_2023,"Villa/Duplex/Townhouse, 2 residents",2,IL,NO_OOA,True,True,35326.0
+POST_2023,"Villa/Duplex/Townhouse, 2 residents",2,IL,WITH_OOA,True,True,38253.0
+PRE_2023,"Villa/Duplex/Townhouse, 2 residents",2,IL,WITH_OOA,True,True,38253.0
+POST_2023,"Villa/Duplex/Townhouse, 2 residents",2,FA,NO_OOA,True,True,37280.0
+PRE_2023,"Villa/Duplex/Townhouse, 2 residents",2,FA,NO_OOA,True,True,37280.0
+POST_2023,"Villa/Duplex/Townhouse, 2 residents",2,FA,WITH_OOA,True,True,40460.0
+PRE_2023,"Villa/Duplex/Townhouse, 2 residents",2,FA,WITH_OOA,True,True,40460.0
+POST_2023,"Villa/Duplex/Townhouse, 2 residents",2,ROBUST,NO_OOA,True,True,40575.0
+PRE_2023,"Villa/Duplex/Townhouse, 2 residents",2,ROBUST,NO_OOA,True,True,40575.0
+POST_2023,"Villa/Duplex/Townhouse, 2 residents",2,ROBUST,WITH_OOA,True,True,43350.0
+PRE_2023,"Villa/Duplex/Townhouse, 2 residents",2,ROBUST,WITH_OOA,True,True,43350.0
+POST_2023,"Villa/Duplex/Townhouse, 2 residents",2,ROBUST_BO,NO_OOA,True,True,42778.0
+PRE_2023,"Villa/Duplex/Townhouse, 2 residents",2,ROBUST_BO,NO_OOA,True,True,42778.0
+POST_2023,"Villa/Duplex/Townhouse, 2 residents",2,ROBUST_BO,WITH_OOA,True,True,45554.0
+PRE_2023,"Villa/Duplex/Townhouse, 2 residents",2,ROBUST_BO,WITH_OOA,True,True,45554.0
+POST_2023,"Villa/Duplex/Townhouse, 2 residents",2,HPS,NO_OOA,True,True,41089.0
+PRE_2023,"Villa/Duplex/Townhouse, 2 residents",2,HPS,NO_OOA,True,True,41089.0
+POST_2023,"Villa/Duplex/Townhouse, 2 residents",2,HPS,WITH_OOA,True,True,44766.0
+PRE_2023,"Villa/Duplex/Townhouse, 2 residents",2,HPS,WITH_OOA,True,True,44766.0
+POST_2023,"Villa/Duplex/Townhouse, 3 residents",3,IL,NO_OOA,True,True,28676.0
+PRE_2023,"Villa/Duplex/Townhouse, 3 residents",3,IL,NO_OOA,True,True,28676.0
+POST_2023,"Villa/Duplex/Townhouse, 3 residents",3,IL,WITH_OOA,True,True,31212.0
+PRE_2023,"Villa/Duplex/Townhouse, 3 residents",3,IL,WITH_OOA,True,True,31212.0
+POST_2023,"Villa/Duplex/Townhouse, 3 residents",3,FA,NO_OOA,True,True,30895.0
+PRE_2023,"Villa/Duplex/Townhouse, 3 residents",3,FA,NO_OOA,True,True,30895.0
+POST_2023,"Villa/Duplex/Townhouse, 3 residents",3,FA,WITH_OOA,True,True,33719.0
+PRE_2023,"Villa/Duplex/Townhouse, 3 residents",3,FA,WITH_OOA,True,True,33719.0
+POST_2023,"Villa/Duplex/Townhouse, 3 residents",3,ROBUST,NO_OOA,True,True,33425.0
+PRE_2023,"Villa/Duplex/Townhouse, 3 residents",3,ROBUST,NO_OOA,True,True,33425.0
+POST_2023,"Villa/Duplex/Townhouse, 3 residents",3,ROBUST,WITH_OOA,True,True,36193.0
+PRE_2023,"Villa/Duplex/Townhouse, 3 residents",3,ROBUST,WITH_OOA,True,True,36193.0
+POST_2023,"Villa/Duplex/Townhouse, 3 residents",3,ROBUST_BO,NO_OOA,True,True,35666.0
+PRE_2023,"Villa/Duplex/Townhouse, 3 residents",3,ROBUST_BO,NO_OOA,True,True,35666.0
+POST_2023,"Villa/Duplex/Townhouse, 3 residents",3,ROBUST_BO,WITH_OOA,True,True,38434.0
+PRE_2023,"Villa/Duplex/Townhouse, 3 residents",3,ROBUST_BO,WITH_OOA,True,True,38434.0
+POST_2023,"Villa/Duplex/Townhouse, 3 residents",3,HPS,NO_OOA,True,True,34209.0
+PRE_2023,"Villa/Duplex/Townhouse, 3 residents",3,HPS,NO_OOA,True,True,34209.0
+POST_2023,"Villa/Duplex/Townhouse, 3 residents",3,HPS,WITH_OOA,True,True,37038.0
+PRE_2023,"Villa/Duplex/Townhouse, 3 residents",3,HPS,WITH_OOA,True,True,37038.0
+POST_2023,"House, 2 residents",2,IL,NO_OOA,True,True,68511.0
+PRE_2023,"House, 2 residents",2,IL,NO_OOA,True,True,68511.0
+POST_2023,"House, 2 residents",2,IL,WITH_OOA,True,True,74972.0
+PRE_2023,"House, 2 residents",2,IL,WITH_OOA,True,True,74972.0
+POST_2023,"House, 2 residents",2,FA,NO_OOA,True,True,70215.0
+PRE_2023,"House, 2 residents",2,FA,NO_OOA,True,True,70215.0
+POST_2023,"House, 2 residents",2,FA,WITH_OOA,True,True,76447.0
+PRE_2023,"House, 2 residents",2,FA,WITH_OOA,True,True,76447.0
+POST_2023,"House, 2 residents",2,ROBUST,NO_OOA,True,True,77539.0
+PRE_2023,"House, 2 residents",2,ROBUST,NO_OOA,True,True,77539.0
+POST_2023,"House, 2 residents",2,ROBUST,WITH_OOA,True,True,84028.0
+PRE_2023,"House, 2 residents",2,ROBUST,WITH_OOA,True,True,84028.0
+POST_2023,"House, 2 residents",2,ROBUST_BO,NO_OOA,True,True,82780.0
+PRE_2023,"House, 2 residents",2,ROBUST_BO,NO_OOA,True,True,82780.0
+POST_2023,"House, 2 residents",2,ROBUST_BO,WITH_OOA,True,True,89269.0
+PRE_2023,"House, 2 residents",2,ROBUST_BO,WITH_OOA,True,True,89269.0
+POST_2023,"House, 2 residents",2,HPS,NO_OOA,True,True,81969.0
+PRE_2023,"House, 2 residents",2,HPS,NO_OOA,True,True,81969.0
+POST_2023,"House, 2 residents",2,HPS,WITH_OOA,True,True,88975.0
+PRE_2023,"House, 2 residents",2,HPS,WITH_OOA,True,True,88975.0
+POST_2023,"House, 3 residents",3,IL,NO_OOA,True,True,48140.0
+PRE_2023,"House, 3 residents",3,IL,NO_OOA,True,True,48140.0
+POST_2023,"House, 3 residents",3,IL,WITH_OOA,True,True,51803.0
+PRE_2023,"House, 3 residents",3,IL,WITH_OOA,True,True,51803.0
+POST_2023,"House, 3 residents",3,FA,NO_OOA,True,True,49411.0
+PRE_2023,"House, 3 residents",3,FA,NO_OOA,True,True,49411.0
+POST_2023,"House, 3 residents",3,FA,WITH_OOA,True,True,53005.0
+PRE_2023,"House, 3 residents",3,FA,WITH_OOA,True,True,53005.0
+POST_2023,"House, 3 residents",3,ROBUST,NO_OOA,True,True,53296.0
+PRE_2023,"House, 3 residents",3,ROBUST,NO_OOA,True,True,53296.0
+POST_2023,"House, 3 residents",3,ROBUST,WITH_OOA,True,True,58065.0
+PRE_2023,"House, 3 residents",3,ROBUST,WITH_OOA,True,True,58065.0
+POST_2023,"House, 3 residents",3,ROBUST_BO,NO_OOA,True,True,57160.0
+PRE_2023,"House, 3 residents",3,ROBUST_BO,NO_OOA,True,True,57160.0
+POST_2023,"House, 3 residents",3,ROBUST_BO,WITH_OOA,True,True,61929.0
+PRE_2023,"House, 3 residents",3,ROBUST_BO,WITH_OOA,True,True,61929.0
+POST_2023,"House, 3 residents",3,HPS,NO_OOA,True,True,57901.0
+PRE_2023,"House, 3 residents",3,HPS,NO_OOA,True,True,57901.0
+POST_2023,"House, 3 residents",3,HPS,WITH_OOA,True,True,61767.0
+PRE_2023,"House, 3 residents",3,HPS,WITH_OOA,True,True,61767.0
+POST_2023,"Group Home, 4 residents",4,IL,NO_OOA,True,True,39761.0
+PRE_2023,"Group Home, 4 residents",4,IL,NO_OOA,True,True,39761.0
+POST_2023,"Group Home, 4 residents",4,IL,WITH_OOA,True,True,42322.0
+PRE_2023,"Group Home, 4 residents",4,IL,WITH_OOA,True,True,42322.0
+POST_2023,"Group Home, 4 residents",4,FA,NO_OOA,True,True,41175.0
+PRE_2023,"Group Home, 4 residents",4,FA,NO_OOA,True,True,41175.0
+POST_2023,"Group Home, 4 residents",4,FA,WITH_OOA,True,True,43470.0
+PRE_2023,"Group Home, 4 residents",4,FA,WITH_OOA,True,True,43470.0
+POST_2023,"Group Home, 4 residents",4,ROBUST,NO_OOA,True,True,44662.0
+PRE_2023,"Group Home, 4 residents",4,ROBUST,NO_OOA,True,True,44662.0
+POST_2023,"Group Home, 4 residents",4,ROBUST,WITH_OOA,True,True,47787.0
+PRE_2023,"Group Home, 4 residents",4,ROBUST,WITH_OOA,True,True,47787.0
+POST_2023,"Group Home, 4 residents",4,ROBUST_BO,NO_OOA,True,True,47234.0
+PRE_2023,"Group Home, 4 residents",4,ROBUST_BO,NO_OOA,True,True,47234.0
+POST_2023,"Group Home, 4 residents",4,ROBUST_BO,WITH_OOA,True,True,50359.0
+PRE_2023,"Group Home, 4 residents",4,ROBUST_BO,WITH_OOA,True,True,50359.0
+POST_2023,"Group Home, 4 residents",4,HPS,NO_OOA,True,True,47835.0
+PRE_2023,"Group Home, 4 residents",4,HPS,NO_OOA,True,True,47835.0
+POST_2023,"Group Home, 4 residents",4,HPS,WITH_OOA,True,True,50674.0
+PRE_2023,"Group Home, 4 residents",4,HPS,WITH_OOA,True,True,50674.0
+POST_2023,"Group Home, 5 residents",5,IL,NO_OOA,True,True,33136.0
+PRE_2023,"Group Home, 5 residents",5,IL,NO_OOA,True,True,33136.0
+POST_2023,"Group Home, 5 residents",5,IL,WITH_OOA,True,True,34831.0
+PRE_2023,"Group Home, 5 residents",5,IL,WITH_OOA,True,True,34831.0
+POST_2023,"Group Home, 5 residents",5,FA,NO_OOA,True,True,34418.0
+PRE_2023,"Group Home, 5 residents",5,FA,NO_OOA,True,True,34418.0
+POST_2023,"Group Home, 5 residents",5,FA,WITH_OOA,True,True,37037.0
+PRE_2023,"Group Home, 5 residents",5,FA,WITH_OOA,True,True,37037.0
+POST_2023,"Group Home, 5 residents",5,ROBUST,NO_OOA,True,True,37921.0
+PRE_2023,"Group Home, 5 residents",5,ROBUST,NO_OOA,True,True,37921.0
+POST_2023,"Group Home, 5 residents",5,ROBUST,WITH_OOA,True,True,39173.0
+PRE_2023,"Group Home, 5 residents",5,ROBUST,WITH_OOA,True,True,39173.0
+POST_2023,"Group Home, 5 residents",5,ROBUST_BO,NO_OOA,True,True,38929.0
+PRE_2023,"Group Home, 5 residents",5,ROBUST_BO,NO_OOA,True,True,38929.0
+POST_2023,"Group Home, 5 residents",5,ROBUST_BO,WITH_OOA,True,True,40183.0
+PRE_2023,"Group Home, 5 residents",5,ROBUST_BO,WITH_OOA,True,True,40183.0
+POST_2023,"Group Home, 5 residents",5,HPS,NO_OOA,True,True,39981.0
+PRE_2023,"Group Home, 5 residents",5,HPS,NO_OOA,True,True,39981.0
+POST_2023,"Group Home, 5 residents",5,HPS,WITH_OOA,True,True,42214.0
+PRE_2023,"Group Home, 5 residents",5,HPS,WITH_OOA,True,True,42214.0
+POST_2023,"Apartment, 1 bedroom, 1 resident",1,IL,NO_OOA,False,False,83622.0
+POST_2023,"Apartment, 1 bedroom, 1 resident",1,IL,WITH_OOA,False,False,97560.0
+POST_2023,"Apartment, 1 bedroom, 1 resident",1,FA,NO_OOA,False,False,86286.0
+POST_2023,"Apartment, 1 bedroom, 1 resident",1,FA,WITH_OOA,False,False,100223.0
+POST_2023,"Apartment, 1 bedroom, 1 resident",1,HPS,NO_OOA,False,False,93956.0
+POST_2023,"Apartment, 1 bedroom, 1 resident",1,HPS,WITH_OOA,False,False,107893.0
+POST_2023,"Apartment, 2 bedrooms, 1 resident",1,IL,NO_OOA,False,False,88109.0
+POST_2023,"Apartment, 2 bedrooms, 1 resident",1,IL,WITH_OOA,False,False,102047.0
+POST_2023,"Apartment, 2 bedrooms, 1 resident",1,FA,NO_OOA,False,False,90081.0
+POST_2023,"Apartment, 2 bedrooms, 1 resident",1,FA,WITH_OOA,False,False,104018.0
+POST_2023,"Apartment, 2 bedrooms, 1 resident",1,HPS,NO_OOA,False,False,98016.0
+POST_2023,"Apartment, 2 bedrooms, 1 resident",1,HPS,WITH_OOA,False,False,111953.0
+POST_2023,"Apartment, 2 bedrooms, 2 residents",2,IL,NO_OOA,False,False,38233.0
+POST_2023,"Apartment, 2 bedrooms, 2 residents",2,IL,WITH_OOA,False,False,45202.0
+POST_2023,"Apartment, 2 bedrooms, 2 residents",2,FA,NO_OOA,False,False,39169.0
+POST_2023,"Apartment, 2 bedrooms, 2 residents",2,FA,WITH_OOA,False,False,46138.0
+POST_2023,"Apartment, 2 bedrooms, 2 residents",2,HPS,NO_OOA,False,False,43181.0
+POST_2023,"Apartment, 2 bedrooms, 2 residents",2,HPS,WITH_OOA,False,False,50150.0
+POST_2023,"Apartment, 3 bedrooms, 2 residents",2,IL,NO_OOA,False,False,47144.0
+POST_2023,"Apartment, 3 bedrooms, 2 residents",2,IL,WITH_OOA,False,False,54112.0
+POST_2023,"Apartment, 3 bedrooms, 2 residents",2,FA,NO_OOA,False,False,48517.0
+POST_2023,"Apartment, 3 bedrooms, 2 residents",2,FA,WITH_OOA,False,False,55486.0
+POST_2023,"Apartment, 3 bedrooms, 2 residents",2,HPS,NO_OOA,False,False,52896.0
+POST_2023,"Apartment, 3 bedrooms, 2 residents",2,HPS,WITH_OOA,False,False,59863.0
+POST_2023,"Villa/Duplex/Townhouse, 1 resident",1,IL,NO_OOA,False,False,59427.0
+POST_2023,"Villa/Duplex/Townhouse, 1 resident",1,IL,WITH_OOA,False,False,62058.0
+POST_2023,"Villa/Duplex/Townhouse, 1 resident",1,FA,NO_OOA,False,False,62386.0
+POST_2023,"Villa/Duplex/Townhouse, 1 resident",1,FA,WITH_OOA,False,False,65198.0
+POST_2023,"Villa/Duplex/Townhouse, 1 resident",1,ROBUST,NO_OOA,False,False,63897.0
+POST_2023,"Villa/Duplex/Townhouse, 1 resident",1,ROBUST,WITH_OOA,False,False,68817.0
+POST_2023,"Villa/Duplex/Townhouse, 1 resident",1,HPS,NO_OOA,False,False,70274.0
+POST_2023,"Villa/Duplex/Townhouse, 1 resident",1,HPS,WITH_OOA,False,False,73569.0
+POST_2023,"Villa/Duplex/Townhouse, 2 residents",2,IL,NO_OOA,False,False,34444.0
+POST_2023,"Villa/Duplex/Townhouse, 2 residents",2,IL,WITH_OOA,False,False,37462.0
+POST_2023,"Villa/Duplex/Townhouse, 2 residents",2,FA,NO_OOA,False,False,36595.0
+POST_2023,"Villa/Duplex/Townhouse, 2 residents",2,FA,WITH_OOA,False,False,39892.0
+POST_2023,"Villa/Duplex/Townhouse, 2 residents",2,ROBUST,NO_OOA,False,False,40136.0
+POST_2023,"Villa/Duplex/Townhouse, 2 residents",2,ROBUST,WITH_OOA,False,False,42974.0
+POST_2023,"Villa/Duplex/Townhouse, 2 residents",2,ROBUST_BO,NO_OOA,False,False,42528.0
+POST_2023,"Villa/Duplex/Townhouse, 2 residents",2,ROBUST_BO,WITH_OOA,False,False,45366.0
+POST_2023,"Villa/Duplex/Townhouse, 2 residents",2,HPS,NO_OOA,False,False,40729.0
+POST_2023,"Villa/Duplex/Townhouse, 2 residents",2,HPS,WITH_OOA,False,False,44563.0
+POST_2023,"Villa/Duplex/Townhouse, 3 residents",3,IL,NO_OOA,False,False,28227.0
+POST_2023,"Villa/Duplex/Townhouse, 3 residents",3,IL,WITH_OOA,False,False,30865.0
+POST_2023,"Villa/Duplex/Townhouse, 3 residents",3,FA,NO_OOA,False,False,30669.0
+POST_2023,"Villa/Duplex/Townhouse, 3 residents",3,FA,WITH_OOA,False,False,33625.0
+POST_2023,"Villa/Duplex/Townhouse, 3 residents",3,ROBUST,NO_OOA,False,False,33381.0
+POST_2023,"Villa/Duplex/Townhouse, 3 residents",3,ROBUST,WITH_OOA,False,False,36268.0
+POST_2023,"Villa/Duplex/Townhouse, 3 residents",3,ROBUST_BO,NO_OOA,False,False,35813.0
+POST_2023,"Villa/Duplex/Townhouse, 3 residents",3,ROBUST_BO,WITH_OOA,False,False,38700.0
+POST_2023,"Villa/Duplex/Townhouse, 3 residents",3,HPS,NO_OOA,False,False,34265.0
+POST_2023,"Villa/Duplex/Townhouse, 3 residents",3,HPS,WITH_OOA,False,False,37222.0
+POST_2023,"House, 2 residents",2,IL,NO_OOA,False,False,68565.0
+POST_2023,"House, 2 residents",2,IL,WITH_OOA,False,False,75316.0
+POST_2023,"House, 2 residents",2,FA,NO_OOA,False,False,70367.0
+POST_2023,"House, 2 residents",2,FA,WITH_OOA,False,False,76866.0
+POST_2023,"House, 2 residents",2,ROBUST,NO_OOA,False,False,78335.0
+POST_2023,"House, 2 residents",2,ROBUST,WITH_OOA,False,False,85097.0
+POST_2023,"House, 2 residents",2,ROBUST_BO,NO_OOA,False,False,84033.0
+POST_2023,"House, 2 residents",2,ROBUST_BO,WITH_OOA,False,False,90794.0
+POST_2023,"House, 2 residents",2,HPS,NO_OOA,False,False,83182.0
+POST_2023,"House, 2 residents",2,HPS,WITH_OOA,False,False,90520.0
+POST_2023,"House, 3 residents",3,IL,NO_OOA,False,False,48293.0
+POST_2023,"House, 3 residents",3,IL,WITH_OOA,False,False,52042.0
+POST_2023,"House, 3 residents",3,FA,NO_OOA,False,False,49617.0
+POST_2023,"House, 3 residents",3,FA,WITH_OOA,False,False,53328.0
+POST_2023,"House, 3 residents",3,ROBUST,NO_OOA,False,False,53842.0
+POST_2023,"House, 3 residents",3,ROBUST,WITH_OOA,False,False,58793.0
+POST_2023,"House, 3 residents",3,ROBUST_BO,NO_OOA,False,False,58014.0
+POST_2023,"House, 3 residents",3,ROBUST_BO,WITH_OOA,False,False,62965.0
+POST_2023,"House, 3 residents",3,HPS,NO_OOA,False,False,58869.0
+POST_2023,"House, 3 residents",3,HPS,WITH_OOA,False,False,62867.0
+POST_2023,"Group Home, 4 residents",4,IL,NO_OOA,False,False,40064.0
+POST_2023,"Group Home, 4 residents",4,IL,WITH_OOA,False,False,42745.0
+POST_2023,"Group Home, 4 residents",4,FA,NO_OOA,False,False,41548.0
+POST_2023,"Group Home, 4 residents",4,FA,WITH_OOA,False,False,43959.0
+POST_2023,"Group Home, 4 residents",4,ROBUST,NO_OOA,False,False,45349.0
+POST_2023,"Group Home, 4 residents",4,ROBUST,WITH_OOA,False,False,48646.0
+POST_2023,"Group Home, 4 residents",4,ROBUST_BO,NO_OOA,False,False,48127.0
+POST_2023,"Group Home, 4 residents",4,ROBUST_BO,WITH_OOA,False,False,51424.0
+POST_2023,"Group Home, 4 residents",4,HPS,NO_OOA,False,False,48800.0
+POST_2023,"Group Home, 4 residents",4,HPS,WITH_OOA,False,False,51805.0
+POST_2023,"Group Home, 5 residents",5,IL,NO_OOA,False,False,33519.0
+POST_2023,"Group Home, 5 residents",5,IL,WITH_OOA,False,False,35293.0
+POST_2023,"Group Home, 5 residents",5,FA,NO_OOA,False,False,34891.0
+POST_2023,"Group Home, 5 residents",5,FA,WITH_OOA,False,False,37661.0
+POST_2023,"Group Home, 5 residents",5,ROBUST,NO_OOA,False,False,38694.0
+POST_2023,"Group Home, 5 residents",5,ROBUST,WITH_OOA,False,False,39979.0
+POST_2023,"Group Home, 5 residents",5,ROBUST_BO,NO_OOA,False,False,39776.0
+POST_2023,"Group Home, 5 residents",5,ROBUST_BO,WITH_OOA,False,False,41061.0
+POST_2023,"Group Home, 5 residents",5,HPS,NO_OOA,False,False,40952.0
+POST_2023,"Group Home, 5 residents",5,HPS,WITH_OOA,False,False,43294.0
+POST_2023,"Apartment, 1 bedroom, 1 resident",1,IL,NO_OOA,True,False,85255.0
+POST_2023,"Apartment, 1 bedroom, 1 resident",1,IL,WITH_OOA,True,False,99464.0
+POST_2023,"Apartment, 1 bedroom, 1 resident",1,FA,NO_OOA,True,False,87941.0
+POST_2023,"Apartment, 1 bedroom, 1 resident",1,FA,WITH_OOA,True,False,102150.0
+POST_2023,"Apartment, 1 bedroom, 1 resident",1,HPS,NO_OOA,True,False,95629.0
+POST_2023,"Apartment, 1 bedroom, 1 resident",1,HPS,WITH_OOA,True,False,109838.0
+POST_2023,"Apartment, 2 bedrooms, 1 resident",1,IL,NO_OOA,True,False,89962.0
+POST_2023,"Apartment, 2 bedrooms, 1 resident",1,IL,WITH_OOA,True,False,104172.0
+POST_2023,"Apartment, 2 bedrooms, 1 resident",1,FA,NO_OOA,True,False,91978.0
+POST_2023,"Apartment, 2 bedrooms, 1 resident",1,FA,WITH_OOA,True,False,106187.0
+POST_2023,"Apartment, 2 bedrooms, 1 resident",1,HPS,NO_OOA,True,False,99936.0
+POST_2023,"Apartment, 2 bedrooms, 1 resident",1,HPS,WITH_OOA,True,False,114145.0
+POST_2023,"Apartment, 2 bedrooms, 2 residents",2,IL,NO_OOA,True,False,39171.0
+POST_2023,"Apartment, 2 bedrooms, 2 residents",2,IL,WITH_OOA,True,False,46276.0
+POST_2023,"Apartment, 2 bedrooms, 2 residents",2,FA,NO_OOA,True,False,40135.0
+POST_2023,"Apartment, 2 bedrooms, 2 residents",2,FA,WITH_OOA,True,False,47239.0
+POST_2023,"Apartment, 2 bedrooms, 2 residents",2,HPS,NO_OOA,True,False,44159.0
+POST_2023,"Apartment, 2 bedrooms, 2 residents",2,HPS,WITH_OOA,True,False,51263.0
+POST_2023,"Apartment, 3 bedrooms, 2 residents",2,IL,NO_OOA,True,False,48267.0
+POST_2023,"Apartment, 3 bedrooms, 2 residents",2,IL,WITH_OOA,True,False,55372.0
+POST_2023,"Apartment, 3 bedrooms, 2 residents",2,FA,NO_OOA,True,False,49653.0
+POST_2023,"Apartment, 3 bedrooms, 2 residents",2,FA,WITH_OOA,True,False,56757.0
+POST_2023,"Apartment, 3 bedrooms, 2 residents",2,HPS,NO_OOA,True,False,54052.0
+POST_2023,"Apartment, 3 bedrooms, 2 residents",2,HPS,WITH_OOA,True,False,61156.0
+POST_2023,"Villa/Duplex/Townhouse, 1 resident",1,IL,NO_OOA,True,False,64407.0
+POST_2023,"Villa/Duplex/Townhouse, 1 resident",1,IL,WITH_OOA,True,False,67358.0
+POST_2023,"Villa/Duplex/Townhouse, 1 resident",1,FA,NO_OOA,True,False,67366.0
+POST_2023,"Villa/Duplex/Townhouse, 1 resident",1,FA,WITH_OOA,True,False,70497.0
+POST_2023,"Villa/Duplex/Townhouse, 1 resident",1,ROBUST,NO_OOA,True,False,68998.0
+POST_2023,"Villa/Duplex/Townhouse, 1 resident",1,ROBUST,WITH_OOA,True,False,74262.0
+POST_2023,"Villa/Duplex/Townhouse, 1 resident",1,HPS,NO_OOA,True,False,75335.0
+POST_2023,"Villa/Duplex/Townhouse, 1 resident",1,HPS,WITH_OOA,True,False,78965.0
+POST_2023,"Villa/Duplex/Townhouse, 2 residents",2,IL,NO_OOA,True,False,37275.0
+POST_2023,"Villa/Duplex/Townhouse, 2 residents",2,IL,WITH_OOA,True,False,40456.0
+POST_2023,"Villa/Duplex/Townhouse, 2 residents",2,FA,NO_OOA,True,False,39424.0
+POST_2023,"Villa/Duplex/Townhouse, 2 residents",2,FA,WITH_OOA,True,False,42885.0
+POST_2023,"Villa/Duplex/Townhouse, 2 residents",2,ROBUST,NO_OOA,True,False,43049.0
+POST_2023,"Villa/Duplex/Townhouse, 2 residents",2,ROBUST,WITH_OOA,True,False,46063.0
+POST_2023,"Villa/Duplex/Townhouse, 2 residents",2,ROBUST_BO,NO_OOA,True,False,45441.0
+POST_2023,"Villa/Duplex/Townhouse, 2 residents",2,ROBUST_BO,WITH_OOA,True,False,48455.0
+POST_2023,"Villa/Duplex/Townhouse, 2 residents",2,HPS,NO_OOA,True,False,43614.0
+POST_2023,"Villa/Duplex/Townhouse, 2 residents",2,HPS,WITH_OOA,True,False,47621.0
+POST_2023,"Villa/Duplex/Townhouse, 3 residents",3,IL,NO_OOA,True,False,30339.0
+POST_2023,"Villa/Duplex/Townhouse, 3 residents",3,IL,WITH_OOA,True,False,33089.0
+POST_2023,"Villa/Duplex/Townhouse, 3 residents",3,FA,NO_OOA,True,False,32779.0
+POST_2023,"Villa/Duplex/Townhouse, 3 residents",3,FA,WITH_OOA,True,False,35847.0
+POST_2023,"Villa/Duplex/Townhouse, 3 residents",3,ROBUST,NO_OOA,True,False,35564.0
+POST_2023,"Villa/Duplex/Townhouse, 3 residents",3,ROBUST,WITH_OOA,True,False,38569.0
+POST_2023,"Villa/Duplex/Townhouse, 3 residents",3,ROBUST_BO,NO_OOA,True,False,37996.0
+POST_2023,"Villa/Duplex/Townhouse, 3 residents",3,ROBUST_BO,WITH_OOA,True,False,41001.0
+POST_2023,"Villa/Duplex/Townhouse, 3 residents",3,HPS,NO_OOA,True,False,36424.0
+POST_2023,"Villa/Duplex/Townhouse, 3 residents",3,HPS,WITH_OOA,True,False,39497.0
+POST_2023,"House, 2 residents",2,IL,NO_OOA,True,False,72465.0
+POST_2023,"House, 2 residents",2,IL,WITH_OOA,True,False,79494.0
+POST_2023,"House, 2 residents",2,FA,NO_OOA,True,False,74269.0
+POST_2023,"House, 2 residents",2,FA,WITH_OOA,True,False,81044.0
+POST_2023,"House, 2 residents",2,ROBUST,NO_OOA,True,False,82397.0
+POST_2023,"House, 2 residents",2,ROBUST,WITH_OOA,True,False,89458.0
+POST_2023,"House, 2 residents",2,ROBUST_BO,NO_OOA,True,False,88095.0
+POST_2023,"House, 2 residents",2,ROBUST_BO,WITH_OOA,True,False,95154.0
+POST_2023,"House, 2 residents",2,HPS,NO_OOA,True,False,87191.0
+POST_2023,"House, 2 residents",2,HPS,WITH_OOA,True,False,94818.0
+POST_2023,"House, 3 residents",3,IL,NO_OOA,True,False,51125.0
+POST_2023,"House, 3 residents",3,IL,WITH_OOA,True,False,55063.0
+POST_2023,"House, 3 residents",3,FA,NO_OOA,True,False,52449.0
+POST_2023,"House, 3 residents",3,FA,WITH_OOA,True,False,56348.0
+POST_2023,"House, 3 residents",3,ROBUST,NO_OOA,True,False,56797.0
+POST_2023,"House, 3 residents",3,ROBUST,WITH_OOA,True,False,61950.0
+POST_2023,"House, 3 residents",3,ROBUST_BO,NO_OOA,True,False,60969.0
+POST_2023,"House, 3 residents",3,ROBUST_BO,WITH_OOA,True,False,66122.0
+POST_2023,"House, 3 residents",3,HPS,NO_OOA,True,False,61784.0
+POST_2023,"House, 3 residents",3,HPS,WITH_OOA,True,False,65979.0
+POST_2023,"Group Home, 4 residents",4,IL,NO_OOA,True,False,42374.0
+POST_2023,"Group Home, 4 residents",4,IL,WITH_OOA,True,False,45127.0
+POST_2023,"Group Home, 4 residents",4,FA,NO_OOA,True,False,43858.0
+POST_2023,"Group Home, 4 residents",4,FA,WITH_OOA,True,False,46341.0
+POST_2023,"Group Home, 4 residents",4,ROBUST,NO_OOA,True,False,47764.0
+POST_2023,"Group Home, 4 residents",4,ROBUST,WITH_OOA,True,False,51138.0
+POST_2023,"Group Home, 4 residents",4,ROBUST_BO,NO_OOA,True,False,50543.0
+POST_2023,"Group Home, 4 residents",4,ROBUST_BO,WITH_OOA,True,False,53916.0
+POST_2023,"Group Home, 4 residents",4,HPS,NO_OOA,True,False,51181.0
+POST_2023,"Group Home, 4 residents",4,HPS,WITH_OOA,True,False,54261.0
+POST_2023,"Group Home, 5 residents",5,IL,NO_OOA,True,False,35425.0
+POST_2023,"Group Home, 5 residents",5,IL,WITH_OOA,True,False,37256.0
+POST_2023,"Group Home, 5 residents",5,FA,NO_OOA,True,False,36796.0
+POST_2023,"Group Home, 5 residents",5,FA,WITH_OOA,True,False,39624.0
+POST_2023,"Group Home, 5 residents",5,ROBUST,NO_OOA,True,False,40689.0
+POST_2023,"Group Home, 5 residents",5,ROBUST,WITH_OOA,True,False,42033.0
+POST_2023,"Group Home, 5 residents",5,ROBUST_BO,NO_OOA,True,False,41771.0
+POST_2023,"Group Home, 5 residents",5,ROBUST_BO,WITH_OOA,True,False,43116.0
+POST_2023,"Group Home, 5 residents",5,HPS,NO_OOA,True,False,42916.0
+POST_2023,"Group Home, 5 residents",5,HPS,WITH_OOA,True,False,45319.0
+EXISTING,"Apartment, 1 bedroom, 1 resident",1,BASIC,NO_OOA,False,,24472.0
+EXISTING,"Apartment, 1 bedroom, 1 resident",1,IL,NO_OOA,False,,25014.0
+EXISTING,"Apartment, 1 bedroom, 1 resident",1,IL,WITH_OOA,False,,29185.0
+EXISTING,"Apartment, 1 bedroom, 1 resident",1,FA,NO_OOA,False,,42465.0
+EXISTING,"Apartment, 1 bedroom, 1 resident",1,FA,WITH_OOA,False,,49544.0
+EXISTING,"Apartment, 1 bedroom, 1 resident",1,HPS,NO_OOA,False,,66117.0
+EXISTING,"Apartment, 1 bedroom, 1 resident",1,HPS,WITH_OOA,False,,77138.0
+EXISTING,"Apartment, 2 bedrooms, 1 resident",1,BASIC,NO_OOA,False,,32321.0
+EXISTING,"Apartment, 2 bedrooms, 1 resident",1,IL,NO_OOA,False,,32984.0
+EXISTING,"Apartment, 2 bedrooms, 1 resident",1,IL,WITH_OOA,False,,38482.0
+EXISTING,"Apartment, 2 bedrooms, 1 resident",1,FA,NO_OOA,False,,55161.0
+EXISTING,"Apartment, 2 bedrooms, 1 resident",1,FA,WITH_OOA,False,,64355.0
+EXISTING,"Apartment, 2 bedrooms, 1 resident",1,HPS,NO_OOA,False,,85981.0
+EXISTING,"Apartment, 2 bedrooms, 1 resident",1,HPS,WITH_OOA,False,,100310.0
+EXISTING,"Apartment, 2 bedrooms, 2 residents",2,BASIC,NO_OOA,False,,10412.0
+EXISTING,"Apartment, 2 bedrooms, 2 residents",2,IL,NO_OOA,False,,10747.0
+EXISTING,"Apartment, 2 bedrooms, 2 residents",2,IL,WITH_OOA,False,,12537.0
+EXISTING,"Apartment, 2 bedrooms, 2 residents",2,FA,NO_OOA,False,,21834.0
+EXISTING,"Apartment, 2 bedrooms, 2 residents",2,FA,WITH_OOA,False,,25473.0
+EXISTING,"Apartment, 2 bedrooms, 2 residents",2,HPS,NO_OOA,False,,37246.0
+EXISTING,"Apartment, 2 bedrooms, 2 residents",2,HPS,WITH_OOA,False,,43453.0
+EXISTING,"Apartment, 3 bedrooms, 2 residents",2,BASIC,NO_OOA,False,,16202.0
+EXISTING,"Apartment, 3 bedrooms, 2 residents",2,IL,NO_OOA,False,,16631.0
+EXISTING,"Apartment, 3 bedrooms, 2 residents",2,IL,WITH_OOA,False,,19403.0
+EXISTING,"Apartment, 3 bedrooms, 2 residents",2,FA,NO_OOA,False,,31343.0
+EXISTING,"Apartment, 3 bedrooms, 2 residents",2,FA,WITH_OOA,False,,36566.0
+EXISTING,"Apartment, 3 bedrooms, 2 residents",2,HPS,NO_OOA,False,,52769.0
+EXISTING,"Apartment, 3 bedrooms, 2 residents",2,HPS,WITH_OOA,False,,61562.0
+EXISTING,"Villa/Duplex/Townhouse, 1 resident",1,BASIC,NO_OOA,False,,12373.0
+EXISTING,"Villa/Duplex/Townhouse, 1 resident",1,IL,NO_OOA,False,,12700.0
+EXISTING,"Villa/Duplex/Townhouse, 1 resident",1,IL,WITH_OOA,False,,15166.0
+EXISTING,"Villa/Duplex/Townhouse, 1 resident",1,FA,NO_OOA,False,,21241.0
+EXISTING,"Villa/Duplex/Townhouse, 1 resident",1,FA,WITH_OOA,False,,23838.0
+EXISTING,"Villa/Duplex/Townhouse, 1 resident",1,ROBUST,NO_OOA,False,,26380.0
+EXISTING,"Villa/Duplex/Townhouse, 1 resident",1,ROBUST,WITH_OOA,False,,29611.0
+EXISTING,"Villa/Duplex/Townhouse, 1 resident",1,HPS,NO_OOA,False,,35256.0
+EXISTING,"Villa/Duplex/Townhouse, 1 resident",1,HPS,WITH_OOA,False,,38676.0
+EXISTING,"Villa/Duplex/Townhouse, 2 residents",2,BASIC,NO_OOA,False,,6544.0
+EXISTING,"Villa/Duplex/Townhouse, 2 residents",2,IL,NO_OOA,False,,6760.0
+EXISTING,"Villa/Duplex/Townhouse, 2 residents",2,IL,WITH_OOA,False,,7960.0
+EXISTING,"Villa/Duplex/Townhouse, 2 residents",2,FA,NO_OOA,False,,12046.0
+EXISTING,"Villa/Duplex/Townhouse, 2 residents",2,FA,WITH_OOA,False,,13309.0
+EXISTING,"Villa/Duplex/Townhouse, 2 residents",2,ROBUST,NO_OOA,False,,15481.0
+EXISTING,"Villa/Duplex/Townhouse, 2 residents",2,ROBUST,WITH_OOA,False,,17037.0
+EXISTING,"Villa/Duplex/Townhouse, 2 residents",2,ROBUST_BO,NO_OOA,False,,16793.0
+EXISTING,"Villa/Duplex/Townhouse, 2 residents",2,ROBUST_BO,WITH_OOA,False,,18348.0
+EXISTING,"Villa/Duplex/Townhouse, 2 residents",2,HPS,NO_OOA,False,,21638.0
+EXISTING,"Villa/Duplex/Townhouse, 2 residents",2,HPS,WITH_OOA,False,,23284.0
+EXISTING,"Villa/Duplex/Townhouse, 3 residents",3,BASIC,NO_OOA,False,,5296.0
+EXISTING,"Villa/Duplex/Townhouse, 3 residents",3,IL,NO_OOA,False,,5485.0
+EXISTING,"Villa/Duplex/Townhouse, 3 residents",3,IL,WITH_OOA,False,,6286.0
+EXISTING,"Villa/Duplex/Townhouse, 3 residents",3,FA,NO_OOA,False,,10266.0
+EXISTING,"Villa/Duplex/Townhouse, 3 residents",3,FA,WITH_OOA,False,,11109.0
+EXISTING,"Villa/Duplex/Townhouse, 3 residents",3,ROBUST,NO_OOA,False,,13506.0
+EXISTING,"Villa/Duplex/Townhouse, 3 residents",3,ROBUST,WITH_OOA,False,,14545.0
+EXISTING,"Villa/Duplex/Townhouse, 3 residents",3,ROBUST_BO,NO_OOA,False,,14379.0
+EXISTING,"Villa/Duplex/Townhouse, 3 residents",3,ROBUST_BO,WITH_OOA,False,,15417.0
+EXISTING,"Villa/Duplex/Townhouse, 3 residents",3,HPS,NO_OOA,False,,19231.0
+EXISTING,"Villa/Duplex/Townhouse, 3 residents",3,HPS,WITH_OOA,False,,20326.0
+EXISTING,"House, 2 residents",2,BASIC,NO_OOA,False,,7536.0
+EXISTING,"House, 2 residents",2,IL,NO_OOA,False,,7692.0
+EXISTING,"House, 2 residents",2,IL,WITH_OOA,False,,8893.0
+EXISTING,"House, 2 residents",2,FA,NO_OOA,False,,12999.0
+EXISTING,"House, 2 residents",2,FA,WITH_OOA,False,,14261.0
+EXISTING,"House, 2 residents",2,ROBUST,NO_OOA,False,,16871.0
+EXISTING,"House, 2 residents",2,ROBUST,WITH_OOA,False,,18428.0
+EXISTING,"House, 2 residents",2,ROBUST_BO,NO_OOA,False,,18182.0
+EXISTING,"House, 2 residents",2,ROBUST_BO,WITH_OOA,False,,19740.0
+EXISTING,"House, 2 residents",2,HPS,NO_OOA,False,,23069.0
+EXISTING,"House, 2 residents",2,HPS,WITH_OOA,False,,24712.0
+EXISTING,"House, 3 residents",3,BASIC,NO_OOA,False,,5783.0
+EXISTING,"House, 3 residents",3,IL,NO_OOA,False,,6899.0
+EXISTING,"House, 3 residents",3,IL,WITH_OOA,False,,7797.0
+EXISTING,"House, 3 residents",3,FA,NO_OOA,False,,12222.0
+EXISTING,"House, 3 residents",3,FA,WITH_OOA,False,,13169.0
+EXISTING,"House, 3 residents",3,ROBUST,NO_OOA,False,,15668.0
+EXISTING,"House, 3 residents",3,ROBUST,WITH_OOA,False,,16815.0
+EXISTING,"House, 3 residents",3,ROBUST_BO,NO_OOA,False,,16633.0
+EXISTING,"House, 3 residents",3,ROBUST_BO,WITH_OOA,False,,17779.0
+EXISTING,"House, 3 residents",3,HPS,NO_OOA,False,,24028.0
+EXISTING,"House, 3 residents",3,HPS,WITH_OOA,False,,25355.0
+EXISTING,"Group Home, 4 residents",4,BASIC,NO_OOA,False,,7134.0
+EXISTING,"Group Home, 4 residents",4,IL,NO_OOA,False,,7363.0
+EXISTING,"Group Home, 4 residents",4,IL,WITH_OOA,False,,8047.0
+EXISTING,"Group Home, 4 residents",4,FA,NO_OOA,False,,12281.0
+EXISTING,"Group Home, 4 residents",4,FA,WITH_OOA,False,,13003.0
+EXISTING,"Group Home, 4 residents",4,ROBUST,NO_OOA,False,,15532.0
+EXISTING,"Group Home, 4 residents",4,ROBUST,WITH_OOA,False,,16401.0
+EXISTING,"Group Home, 4 residents",4,ROBUST_BO,NO_OOA,False,,16264.0
+EXISTING,"Group Home, 4 residents",4,ROBUST_BO,WITH_OOA,False,,17134.0
+EXISTING,"Group Home, 4 residents",4,HPS,NO_OOA,False,,23085.0
+EXISTING,"Group Home, 4 residents",4,HPS,WITH_OOA,False,,24083.0
+EXISTING,"Group Home, 5 residents",5,BASIC,NO_OOA,False,,5729.0
+EXISTING,"Group Home, 5 residents",5,IL,NO_OOA,False,,5916.0
+EXISTING,"Group Home, 5 residents",5,IL,WITH_OOA,False,,6455.0
+EXISTING,"Group Home, 5 residents",5,FA,NO_OOA,False,,10508.0
+EXISTING,"Group Home, 5 residents",5,FA,WITH_OOA,False,,11079.0
+EXISTING,"Group Home, 5 residents",5,ROBUST,NO_OOA,False,,13410.0
+EXISTING,"Group Home, 5 residents",5,ROBUST,WITH_OOA,False,,14102.0
+EXISTING,"Group Home, 5 residents",5,ROBUST_BO,NO_OOA,False,,13989.0
+EXISTING,"Group Home, 5 residents",5,ROBUST_BO,WITH_OOA,False,,14678.0
+EXISTING,"Group Home, 5 residents",5,HPS,NO_OOA,False,,20426.0
+EXISTING,"Group Home, 5 residents",5,HPS,WITH_OOA,False,,21212.0
+EXISTING,"Apartment, 1 bedroom, 1 resident",1,BASIC,NO_OOA,True,,24765.0
+EXISTING,"Apartment, 1 bedroom, 1 resident",1,IL,NO_OOA,True,,25314.0
+EXISTING,"Apartment, 1 bedroom, 1 resident",1,IL,WITH_OOA,True,,29535.0
+EXISTING,"Apartment, 1 bedroom, 1 resident",1,FA,NO_OOA,True,,42974.0
+EXISTING,"Apartment, 1 bedroom, 1 resident",1,FA,WITH_OOA,True,,50138.0
+EXISTING,"Apartment, 1 bedroom, 1 resident",1,HPS,NO_OOA,True,,66910.0
+EXISTING,"Apartment, 1 bedroom, 1 resident",1,HPS,WITH_OOA,True,,78064.0
+EXISTING,"Apartment, 2 bedrooms, 1 resident",1,BASIC,NO_OOA,True,,32709.0
+EXISTING,"Apartment, 2 bedrooms, 1 resident",1,IL,NO_OOA,True,,33380.0
+EXISTING,"Apartment, 2 bedrooms, 1 resident",1,IL,WITH_OOA,True,,38944.0
+EXISTING,"Apartment, 2 bedrooms, 1 resident",1,FA,NO_OOA,True,,55822.0
+EXISTING,"Apartment, 2 bedrooms, 1 resident",1,FA,WITH_OOA,True,,65127.0
+EXISTING,"Apartment, 2 bedrooms, 1 resident",1,HPS,NO_OOA,True,,87013.0
+EXISTING,"Apartment, 2 bedrooms, 1 resident",1,HPS,WITH_OOA,True,,101514.0
+EXISTING,"Apartment, 2 bedrooms, 2 residents",2,BASIC,NO_OOA,True,,10538.0
+EXISTING,"Apartment, 2 bedrooms, 2 residents",2,IL,NO_OOA,True,,10876.0
+EXISTING,"Apartment, 2 bedrooms, 2 residents",2,IL,WITH_OOA,True,,12688.0
+EXISTING,"Apartment, 2 bedrooms, 2 residents",2,FA,NO_OOA,True,,22096.0
+EXISTING,"Apartment, 2 bedrooms, 2 residents",2,FA,WITH_OOA,True,,25779.0
+EXISTING,"Apartment, 2 bedrooms, 2 residents",2,HPS,NO_OOA,True,,37692.0
+EXISTING,"Apartment, 2 bedrooms, 2 residents",2,HPS,WITH_OOA,True,,43975.0
+EXISTING,"Apartment, 3 bedrooms, 2 residents",2,BASIC,NO_OOA,True,,16395.0
+EXISTING,"Apartment, 3 bedrooms, 2 residents",2,IL,NO_OOA,True,,16830.0
+EXISTING,"Apartment, 3 bedrooms, 2 residents",2,IL,WITH_OOA,True,,19635.0
+EXISTING,"Apartment, 3 bedrooms, 2 residents",2,FA,NO_OOA,True,,31718.0
+EXISTING,"Apartment, 3 bedrooms, 2 residents",2,FA,WITH_OOA,True,,37005.0
+EXISTING,"Apartment, 3 bedrooms, 2 residents",2,HPS,NO_OOA,True,,53402.0
+EXISTING,"Apartment, 3 bedrooms, 2 residents",2,HPS,WITH_OOA,True,,62300.0
+EXISTING,"Villa/Duplex/Townhouse, 1 resident",1,BASIC,NO_OOA,True,,12609.0
+EXISTING,"Villa/Duplex/Townhouse, 1 resident",1,IL,NO_OOA,True,,12940.0
+EXISTING,"Villa/Duplex/Townhouse, 1 resident",1,IL,WITH_OOA,True,,15454.0
+EXISTING,"Villa/Duplex/Townhouse, 1 resident",1,FA,NO_OOA,True,,21643.0
+EXISTING,"Villa/Duplex/Townhouse, 1 resident",1,FA,WITH_OOA,True,,24290.0
+EXISTING,"Villa/Duplex/Townhouse, 1 resident",1,ROBUST,NO_OOA,True,,26881.0
+EXISTING,"Villa/Duplex/Townhouse, 1 resident",1,ROBUST,WITH_OOA,True,,30173.0
+EXISTING,"Villa/Duplex/Townhouse, 1 resident",1,HPS,NO_OOA,True,,35926.0
+EXISTING,"Villa/Duplex/Townhouse, 1 resident",1,HPS,WITH_OOA,True,,39412.0
+EXISTING,"Villa/Duplex/Townhouse, 2 residents",2,BASIC,NO_OOA,True,,6668.0
+EXISTING,"Villa/Duplex/Townhouse, 2 residents",2,IL,NO_OOA,True,,6889.0
+EXISTING,"Villa/Duplex/Townhouse, 2 residents",2,IL,WITH_OOA,True,,8111.0
+EXISTING,"Villa/Duplex/Townhouse, 2 residents",2,FA,NO_OOA,True,,12276.0
+EXISTING,"Villa/Duplex/Townhouse, 2 residents",2,FA,WITH_OOA,True,,13561.0
+EXISTING,"Villa/Duplex/Townhouse, 2 residents",2,ROBUST,NO_OOA,True,,15775.0
+EXISTING,"Villa/Duplex/Townhouse, 2 residents",2,ROBUST,WITH_OOA,True,,17361.0
+EXISTING,"Villa/Duplex/Townhouse, 2 residents",2,ROBUST_BO,NO_OOA,True,,17112.0
+EXISTING,"Villa/Duplex/Townhouse, 2 residents",2,ROBUST_BO,WITH_OOA,True,,18696.0
+EXISTING,"Villa/Duplex/Townhouse, 2 residents",2,HPS,NO_OOA,True,,22050.0
+EXISTING,"Villa/Duplex/Townhouse, 2 residents",2,HPS,WITH_OOA,True,,23726.0
+EXISTING,"Villa/Duplex/Townhouse, 3 residents",3,BASIC,NO_OOA,True,,5396.0
+EXISTING,"Villa/Duplex/Townhouse, 3 residents",3,IL,NO_OOA,True,,5589.0
+EXISTING,"Villa/Duplex/Townhouse, 3 residents",3,IL,WITH_OOA,True,,6406.0
+EXISTING,"Villa/Duplex/Townhouse, 3 residents",3,FA,NO_OOA,True,,10461.0
+EXISTING,"Villa/Duplex/Townhouse, 3 residents",3,FA,WITH_OOA,True,,11320.0
+EXISTING,"Villa/Duplex/Townhouse, 3 residents",3,ROBUST,NO_OOA,True,,13763.0
+EXISTING,"Villa/Duplex/Townhouse, 3 residents",3,ROBUST,WITH_OOA,True,,14820.0
+EXISTING,"Villa/Duplex/Townhouse, 3 residents",3,ROBUST_BO,NO_OOA,True,,14652.0
+EXISTING,"Villa/Duplex/Townhouse, 3 residents",3,ROBUST_BO,WITH_OOA,True,,15710.0
+EXISTING,"Villa/Duplex/Townhouse, 3 residents",3,HPS,NO_OOA,True,,19595.0
+EXISTING,"Villa/Duplex/Townhouse, 3 residents",3,HPS,WITH_OOA,True,,20712.0
+EXISTING,"House, 2 residents",2,BASIC,NO_OOA,True,,7679.0
+EXISTING,"House, 2 residents",2,IL,NO_OOA,True,,7839.0
+EXISTING,"House, 2 residents",2,IL,WITH_OOA,True,,9062.0
+EXISTING,"House, 2 residents",2,FA,NO_OOA,True,,13245.0
+EXISTING,"House, 2 residents",2,FA,WITH_OOA,True,,14532.0
+EXISTING,"House, 2 residents",2,ROBUST,NO_OOA,True,,17191.0
+EXISTING,"House, 2 residents",2,ROBUST,WITH_OOA,True,,18778.0
+EXISTING,"House, 2 residents",2,ROBUST_BO,NO_OOA,True,,18528.0
+EXISTING,"House, 2 residents",2,ROBUST_BO,WITH_OOA,True,,20115.0
+EXISTING,"House, 2 residents",2,HPS,NO_OOA,True,,23507.0
+EXISTING,"House, 2 residents",2,HPS,WITH_OOA,True,,25182.0
+EXISTING,"House, 3 residents",3,BASIC,NO_OOA,True,,5893.0
+EXISTING,"House, 3 residents",3,IL,NO_OOA,True,,7031.0
+EXISTING,"House, 3 residents",3,IL,WITH_OOA,True,,7945.0
+EXISTING,"House, 3 residents",3,FA,NO_OOA,True,,12455.0
+EXISTING,"House, 3 residents",3,FA,WITH_OOA,True,,13418.0
+EXISTING,"House, 3 residents",3,ROBUST,NO_OOA,True,,15966.0
+EXISTING,"House, 3 residents",3,ROBUST,WITH_OOA,True,,17134.0
+EXISTING,"House, 3 residents",3,ROBUST_BO,NO_OOA,True,,16949.0
+EXISTING,"House, 3 residents",3,ROBUST_BO,WITH_OOA,True,,18117.0
+EXISTING,"House, 3 residents",3,HPS,NO_OOA,True,,24485.0
+EXISTING,"House, 3 residents",3,HPS,WITH_OOA,True,,25838.0
+EXISTING,"Group Home, 4 residents",4,BASIC,NO_OOA,True,,7270.0
+EXISTING,"Group Home, 4 residents",4,IL,NO_OOA,True,,7503.0
+EXISTING,"Group Home, 4 residents",4,IL,WITH_OOA,True,,8199.0
+EXISTING,"Group Home, 4 residents",4,FA,NO_OOA,True,,12514.0
+EXISTING,"Group Home, 4 residents",4,FA,WITH_OOA,True,,13251.0
+EXISTING,"Group Home, 4 residents",4,ROBUST,NO_OOA,True,,15827.0
+EXISTING,"Group Home, 4 residents",4,ROBUST,WITH_OOA,True,,16713.0
+EXISTING,"Group Home, 4 residents",4,ROBUST_BO,NO_OOA,True,,16572.0
+EXISTING,"Group Home, 4 residents",4,ROBUST_BO,WITH_OOA,True,,17459.0
+EXISTING,"Group Home, 4 residents",4,HPS,NO_OOA,True,,23523.0
+EXISTING,"Group Home, 4 residents",4,HPS,WITH_OOA,True,,24541.0
+EXISTING,"Group Home, 5 residents",5,BASIC,NO_OOA,True,,5839.0
+EXISTING,"Group Home, 5 residents",5,IL,NO_OOA,True,,6028.0
+EXISTING,"Group Home, 5 residents",5,IL,WITH_OOA,True,,6578.0
+EXISTING,"Group Home, 5 residents",5,FA,NO_OOA,True,,10707.0
+EXISTING,"Group Home, 5 residents",5,FA,WITH_OOA,True,,11289.0
+EXISTING,"Group Home, 5 residents",5,ROBUST,NO_OOA,True,,13665.0
+EXISTING,"Group Home, 5 residents",5,ROBUST,WITH_OOA,True,,14370.0
+EXISTING,"Group Home, 5 residents",5,ROBUST_BO,NO_OOA,True,,14255.0
+EXISTING,"Group Home, 5 residents",5,ROBUST_BO,WITH_OOA,True,,14958.0
+EXISTING,"Group Home, 5 residents",5,HPS,NO_OOA,True,,20814.0
+EXISTING,"Group Home, 5 residents",5,HPS,WITH_OOA,True,,21616.0
+LEGACY,"Legacy Stock, 6 residents",6,BASIC,NO_OOA,False,,4383.0
+LEGACY,"Legacy Stock, 6 residents",6,IL,NO_OOA,False,,4554.0
+LEGACY,"Legacy Stock, 6 residents",6,IL,WITH_OOA,False,,5052.0
+LEGACY,"Legacy Stock, 6 residents",6,FA,NO_OOA,False,,8779.0
+LEGACY,"Legacy Stock, 6 residents",6,FA,WITH_OOA,False,,9306.0
+LEGACY,"Legacy Stock, 6 residents",6,ROBUST,NO_OOA,False,,11450.0
+LEGACY,"Legacy Stock, 6 residents",6,ROBUST,WITH_OOA,False,,12084.0
+LEGACY,"Legacy Stock, 6 residents",6,HPS,NO_OOA,False,,17905.0
+LEGACY,"Legacy Stock, 6 residents",6,HPS,WITH_OOA,False,,18629.0
+LEGACY,"Legacy Stock, 7 residents",7,BASIC,NO_OOA,False,,3296.0
+LEGACY,"Legacy Stock, 7 residents",7,IL,NO_OOA,False,,3457.0
+LEGACY,"Legacy Stock, 7 residents",7,IL,WITH_OOA,False,,3922.0
+LEGACY,"Legacy Stock, 7 residents",7,FA,NO_OOA,False,,7388.0
+LEGACY,"Legacy Stock, 7 residents",7,FA,WITH_OOA,False,,7878.0
+LEGACY,"Legacy Stock, 7 residents",7,ROBUST,NO_OOA,False,,9873.0
+LEGACY,"Legacy Stock, 7 residents",7,ROBUST,WITH_OOA,False,,10460.0
+LEGACY,"Legacy Stock, 7 residents",7,HPS,NO_OOA,False,,15877.0
+LEGACY,"Legacy Stock, 7 residents",7,HPS,WITH_OOA,False,,16550.0
+LEGACY,"Legacy Stock, 8 residents",8,BASIC,NO_OOA,False,,2414.0
+LEGACY,"Legacy Stock, 8 residents",8,IL,NO_OOA,False,,2561.0
+LEGACY,"Legacy Stock, 8 residents",8,IL,WITH_OOA,False,,2998.0
+LEGACY,"Legacy Stock, 8 residents",8,FA,NO_OOA,False,,6253.0
+LEGACY,"Legacy Stock, 8 residents",8,FA,WITH_OOA,False,,6711.0
+LEGACY,"Legacy Stock, 8 residents",8,ROBUST,NO_OOA,False,,8584.0
+LEGACY,"Legacy Stock, 8 residents",8,ROBUST,WITH_OOA,False,,9138.0
+LEGACY,"Legacy Stock, 8 residents",8,HPS,NO_OOA,False,,14222.0
+LEGACY,"Legacy Stock, 8 residents",8,HPS,WITH_OOA,False,,14853.0
+LEGACY,"Legacy Stock, 9 residents",9,BASIC,NO_OOA,False,,1684.0
+LEGACY,"Legacy Stock, 9 residents",9,IL,NO_OOA,False,,1827.0
+LEGACY,"Legacy Stock, 9 residents",9,IL,WITH_OOA,False,,2236.0
+LEGACY,"Legacy Stock, 9 residents",9,FA,NO_OOA,False,,5316.0
+LEGACY,"Legacy Stock, 9 residents",9,FA,WITH_OOA,False,,5753.0
+LEGACY,"Legacy Stock, 9 residents",9,ROBUST,NO_OOA,False,,7524.0
+LEGACY,"Legacy Stock, 9 residents",9,ROBUST,WITH_OOA,False,,8048.0
+LEGACY,"Legacy Stock, 9 residents",9,HPS,NO_OOA,False,,12857.0
+LEGACY,"Legacy Stock, 9 residents",9,HPS,WITH_OOA,False,,13455.0
+LEGACY,"Legacy Stock, 10 residents",10,BASIC,NO_OOA,False,,1077.0
+LEGACY,"Legacy Stock, 10 residents",10,IL,NO_OOA,False,,1213.0
+LEGACY,"Legacy Stock, 10 residents",10,IL,WITH_OOA,False,,1608.0
+LEGACY,"Legacy Stock, 10 residents",10,FA,NO_OOA,False,,4539.0
+LEGACY,"Legacy Stock, 10 residents",10,FA,WITH_OOA,False,,4953.0
+LEGACY,"Legacy Stock, 10 residents",10,ROBUST,NO_OOA,False,,6644.0
+LEGACY,"Legacy Stock, 10 residents",10,ROBUST,WITH_OOA,False,,7139.0
+LEGACY,"Legacy Stock, 10 residents",10,HPS,NO_OOA,False,,11725.0
+LEGACY,"Legacy Stock, 10 residents",10,HPS,WITH_OOA,False,,12294.0
+LEGACY,"Legacy Stock, 6 residents",6,BASIC,NO_OOA,True,,4466.0
+LEGACY,"Legacy Stock, 6 residents",6,IL,NO_OOA,True,,4640.0
+LEGACY,"Legacy Stock, 6 residents",6,IL,WITH_OOA,True,,5149.0
+LEGACY,"Legacy Stock, 6 residents",6,FA,NO_OOA,True,,8946.0
+LEGACY,"Legacy Stock, 6 residents",6,FA,WITH_OOA,True,,9483.0
+LEGACY,"Legacy Stock, 6 residents",6,ROBUST,NO_OOA,True,,11667.0
+LEGACY,"Legacy Stock, 6 residents",6,ROBUST,WITH_OOA,True,,12314.0
+LEGACY,"Legacy Stock, 6 residents",6,HPS,NO_OOA,True,,18245.0
+LEGACY,"Legacy Stock, 6 residents",6,HPS,WITH_OOA,True,,18983.0
+LEGACY,"Legacy Stock, 7 residents",7,BASIC,NO_OOA,True,,3359.0
+LEGACY,"Legacy Stock, 7 residents",7,IL,NO_OOA,True,,3524.0
+LEGACY,"Legacy Stock, 7 residents",7,IL,WITH_OOA,True,,3997.0
+LEGACY,"Legacy Stock, 7 residents",7,FA,NO_OOA,True,,7527.0
+LEGACY,"Legacy Stock, 7 residents",7,FA,WITH_OOA,True,,8027.0
+LEGACY,"Legacy Stock, 7 residents",7,ROBUST,NO_OOA,True,,10061.0
+LEGACY,"Legacy Stock, 7 residents",7,ROBUST,WITH_OOA,True,,10659.0
+LEGACY,"Legacy Stock, 7 residents",7,HPS,NO_OOA,True,,16178.0
+LEGACY,"Legacy Stock, 7 residents",7,HPS,WITH_OOA,True,,16863.0
+LEGACY,"Legacy Stock, 8 residents",8,BASIC,NO_OOA,True,,2459.0
+LEGACY,"Legacy Stock, 8 residents",8,IL,NO_OOA,True,,2610.0
+LEGACY,"Legacy Stock, 8 residents",8,IL,WITH_OOA,True,,3056.0
+LEGACY,"Legacy Stock, 8 residents",8,FA,NO_OOA,True,,6371.0
+LEGACY,"Legacy Stock, 8 residents",8,FA,WITH_OOA,True,,6838.0
+LEGACY,"Legacy Stock, 8 residents",8,ROBUST,NO_OOA,True,,8748.0
+LEGACY,"Legacy Stock, 8 residents",8,ROBUST,WITH_OOA,True,,9312.0
+LEGACY,"Legacy Stock, 8 residents",8,HPS,NO_OOA,True,,14493.0
+LEGACY,"Legacy Stock, 8 residents",8,HPS,WITH_OOA,True,,15136.0
+LEGACY,"Legacy Stock, 9 residents",9,BASIC,NO_OOA,True,,1716.0
+LEGACY,"Legacy Stock, 9 residents",9,IL,NO_OOA,True,,1862.0
+LEGACY,"Legacy Stock, 9 residents",9,IL,WITH_OOA,True,,2278.0
+LEGACY,"Legacy Stock, 9 residents",9,FA,NO_OOA,True,,5417.0
+LEGACY,"Legacy Stock, 9 residents",9,FA,WITH_OOA,True,,5862.0
+LEGACY,"Legacy Stock, 9 residents",9,ROBUST,NO_OOA,True,,7668.0
+LEGACY,"Legacy Stock, 9 residents",9,ROBUST,WITH_OOA,True,,8200.0
+LEGACY,"Legacy Stock, 9 residents",9,HPS,NO_OOA,True,,13102.0
+LEGACY,"Legacy Stock, 9 residents",9,HPS,WITH_OOA,True,,13710.0
+LEGACY,"Legacy Stock, 10 residents",10,BASIC,NO_OOA,True,,1097.0
+LEGACY,"Legacy Stock, 10 residents",10,IL,NO_OOA,True,,1237.0
+LEGACY,"Legacy Stock, 10 residents",10,IL,WITH_OOA,True,,1638.0
+LEGACY,"Legacy Stock, 10 residents",10,FA,NO_OOA,True,,4625.0
+LEGACY,"Legacy Stock, 10 residents",10,FA,WITH_OOA,True,,5047.0
+LEGACY,"Legacy Stock, 10 residents",10,ROBUST,NO_OOA,True,,6771.0
+LEGACY,"Legacy Stock, 10 residents",10,ROBUST,WITH_OOA,True,,7276.0
+LEGACY,"Legacy Stock, 10 residents",10,HPS,NO_OOA,True,,11947.0
+LEGACY,"Legacy Stock, 10 residents",10,HPS,WITH_OOA,True,,12528.0
