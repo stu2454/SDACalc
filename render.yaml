@@ -33,9 +33,8 @@ services:
     region: oregon
     dockerfilePath: ./frontend/Dockerfile
     dockerContext: ./frontend
+    dockerBuildArgs:
+      - VITE_API_URL=https://sda-calc-backend.onrender.com
     envVars:
       - key: VITE_API_URL
-        fromService:
-          type: web
-          name: sda-calc-backend
-          property: host
+        value: https://sda-calc-backend.onrender.com
