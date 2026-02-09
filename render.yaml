@@ -1,0 +1,34 @@
+version: "1"
+services:
+  - type: web
+    name: sda-calculator-api
+    runtime: docker
+    repo: https://github.com/stu2454/SDA_Calculator
+    plan: free
+    region: singapore
+    dockerContext: backend
+    dockerfilePath: backend/Dockerfile
+    autoDeploy: true
+    envVars:
+      - key: DATABASE_URL
+        fromDatabase:
+          name: sda-calculator-db
+          property: connectionString
+
+  - type: web
+    name: sda-calculator-web
+    runtime: docker
+    repo: https://github.com/stu2454/SDA_Calculator
+    plan: free
+    region: singapore
+    dockerContext: frontend
+    dockerfilePath: frontend/Dockerfile
+    autoDeploy: true
+    envVars:
+      - key: VITE_API_URL
+        value: https://sda-calculator-api.onrender.com
+
+databases:
+  - name: sda-calculator-db
+    plan: free
+    region: singapore
