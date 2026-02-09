@@ -16,6 +16,11 @@ from calculation import CalculationService
 from validation import ValidationService
 from models import BuildingType, SA4Region
 
+# Admin endpoints for initialization
+import subprocess
+import os
+
+
 # Create FastAPI app
 app = FastAPI(
     title="SDA Calculator API",
@@ -253,3 +258,102 @@ def get_regions(db: Session = Depends(get_db)):
         SA4RegionOption(name=r.name, state=r.state)
         for r in regions
     ]
+
+
+@app.get("/admin/init-database")
+async def initialize_database(secret: str = ""):
+    """Initialize database - call once after deployment"""
+    if secret != "init2025":
+        raise HTTPException(status_code=403, detail="Invalid secret")
+    
+    results = {"status": "running", "steps": []}
+    
+    try:
+        # Check if already initialized
+        session = SessionLocal()
+        base_count = session.query(BasePrice).count()
+        region_count = session.query(SA4Region).count()
+        factor_count = session.query(LocationFactor).count()
+        
+        if base_count > 0 and region_count > 80 and factor_count > 1500:
+            results["status"] = "already_initialized"
+            results["data"] = {
+                "base_prices": base_count,
+                "regions": region_count,
+                "location_factors": factor_count
+            }
+            session.close()
+            return results
+        session.close()
+        
+        # Install openpyxl
+        results["steps"].append({"step": "install_openpyxl", "status": "running"})
+        try:
+            import openpyxl
+            results["steps"][-1]["status"] = "already_installed"
+        except ImportError:
+            result = subprocess.run(["pip", "install", "openpyxl"], capture_output=True, text=True)
+            results["steps"][-1]["status"] = "success" if result.returncode == 0 else "failed"
+        
+        # Run init_db.py
+        results["steps"].append({"step": "init_db", "status": "running"})
+        result = subprocess.run(["python", "init_db.py"], capture_output=True, text=True, cwd="/app")
+        if result.returncode == 0:
+            results["steps"][-1]["status"] = "success"
+        else:
+            raise Exception(f"init_db failed: {result.stderr}")
+        
+        # Load regions
+        excel_path = "/data/SDA_Price_Calculator.xlsx"
+        if os.path.exists(excel_path):
+            results["steps"].append({"step": "load_regions", "status": "running"})
+            result = subprocess.run(["python", "load_all_regions.py", excel_path], capture_output=True, text=True, cwd="/app")
+            if result.returncode != 0:
+                raise Exception(f"load_regions failed: {result.stderr}")
+            results["steps"][-1]["status"] = "success"
+            
+            results["steps"].append({"step": "extract_factors", "status": "running"})
+            result = subprocess.run(["python", "extract_location_factors.py", excel_path], capture_output=True, text=True, cwd="/app")
+            if result.returncode != 0:
+                raise Exception(f"extract_factors failed: {result.stderr}")
+            results["steps"][-1]["status"] = "success"
+        
+        # Verify
+        session = SessionLocal()
+        stats = {
+            "base_prices": session.query(BasePrice).count(),
+            "regions": session.query(SA4Region).count(),
+            "location_factors": session.query(LocationFactor).count()
+        }
+        session.close()
+        
+        results["status"] = "completed"
+        results["final_stats"] = stats
+        return results
+        
+    except Exception as e:
+        results["status"] = "failed"
+        results["error"] = str(e)
+        return results
+
+@app.get("/admin/db-status")
+async def database_status():
+    """Check database status"""
+    session = SessionLocal()
+    try:
+        stats = {
+            "base_prices": session.query(BasePrice).count(),
+            "regions": session.query(SA4Region).count(),
+            "location_factors": session.query(LocationFactor).count()
+        }
+        initialized = stats["base_prices"] > 800 and stats["regions"] > 80 and stats["location_factors"] > 1500
+        return {
+            "initialized": initialized,
+            "stats": stats,
+            "data_files": {
+                "excel": os.path.exists("/data/SDA_Price_Calculator.xlsx"),
+                "csv": os.path.exists("/data/base_prices_complete.csv")
+            }
+        }
+    finally:
+        session.close()
